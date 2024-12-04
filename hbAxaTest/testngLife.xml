@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+   <suite name="hbAxaTest" parallel="false">
+<!-- <suite name="hbAxaTest" parallel="tests" thread-count="2" verbose="1"> -->
+	
+	<listeners>
+		<listener class-name="com.hbaxa.utilities.Reporting" />
+		<listener class-name="com.hbaxa.utilities.RetryListenerClass" />
+	</listeners>
+	
+	<test name="TC_PA_Life"> <!-- This is test id collect from excel sheet -->
+		<parameter name="Browser" value="chrome" />
+		<parameter name="tc_row" value="10" /><!-- tc_row value must be match from input data excel sheet(row number) -->
+		<parameter name="test_name" value="TC_PA_Life_" />
+		 <classes>
+			
+		<!--	 <class name="com.hbaxa.testcases.TC_PATest_001">
+				<methods>
+					<include name="paTestManual" />
+					<include name="indexPASearch"/>
+					<include name="palistSearch" />
+					<include name="paGenerateLetter" />
+					<include name="paActivityLog"/>
+					<include name="paViewpage"/>
+				</methods>
+			</class> -->
+			
+		<!--	  <class name="com.hbaxa.testcases.TC_PATestAdjustment_001">
+				<methods>
+					<include name="paTestAdjustment" />
+					<include name="palistSearchAdjustment" />
+					<include name="palistAdjustmentLogLetter" />
+				</methods>
+			</class> -->
+			
+		</classes>
+	</test>
+	
+	<test name="TC_Cashless_Life">
+	 <parameter name="Browser" value="chrome" />
+<!--	<parameter name="Browser" value="edge" />-->
+	<parameter name="tc_row" value="11" /><!-- tc_row value must be match from input data excel sheet(row number) -->
+	<parameter name="test_name" value="TC_Cashless_Life_" />
+		<classes>
+			
+		  <class name="com.hbaxa.testcases.TC_CashLessDCTestManual_001">
+			 <methods>
+			 	<include name="loginLevel0Test"/>
+			 	<include name="cashlessDCaptureManual"/>
+			 	<include name="cashlessDCaptureSearchClaim"/>
+			 	<exclude name="logoutLevel0Test"/>
+			 </methods>
+			</class>
+	<!--		<class name="com.hbaxa.testcases.TC_CashlessOverviewTestManual_001">
+			 <methods>
+			 	<include name="loginLevel2Test"/>
+			 	<include name="cashlessOverviewManual"/>
+			 	<include name="cOverviewManualPreviewBenefitItem"/>
+			 	<include name="cashlessOManualviewLetter"/>
+			 	<include name="cashlessOManualGenerateLetter"/>
+			 	<include name="cashlessOManualAPSGeneration"/>
+			 	<include name="cashlessOManualPendinNotification"/>
+			 	<include name="cashlessOManualApprovedClaimSearch"/>
+			 	<include name="logoutLevel2Test"/>
+			 </methods>
+			</class>
+			
+			<class name="com.hbaxa.testcases.TC_CashlessOverviewReverseTest_001">
+				<methods>
+					<include name="loginLevel2Test" />
+					<include name="cashlessOverviewReverse" />
+					<include name="logoutLevel2Test"/>
+				</methods>
+			</class> -->
+			
+		</classes> 
+	</test>	
+	
+	<test name="TC_Reimbursment_Life">
+	<parameter name="Browser" value="chrome" />
+	<parameter name="tc_row" value="11" /><!-- tc_row value must be match from input data excel sheet(row number) -->
+	<parameter name="test_name" value="TC_Reimbursment_Life_" />
+		<classes>
+		
+		<!--	<class name="com.hbaxa.testcases.TC_ReimDCTestManual_001">
+			 <methods>
+			 	<include name="loginLevel0Test"/>
+			 	<include name="reimDCaptureManual"/>
+			 	<include name="reimDCaptureSearchClaim"/>
+			 	<exclude name="logoutLevel0Test"/>
+			 
+			 
+			 </methods>
+			 </class> -->
+ 		<!-- 	 <class name="com.hbaxa.testcases.TC_ReimOverviewTestManual_001">
+			 <methods>
+			 	<include name="loginLevel2Test"/>
+			 	<include name="reimOverviewManual"/>
+			 	<include name="roManualPreviewBenefitItem"/>
+			 	<include name="roManualviewLetter"/>
+			 	<exclude name="roManualGenerateLetter"/>
+			 	<exclude name="roManualAPSGeneration"/>
+			 	<include name="roManualPendinNotification"/>
+			 	<include name="roManualApprovedClaimSearch"/>
+			 	<include name="logoutLevel2Test"/>
+			 </methods>
+			</class> -->
+			
+		 <!--	<class name="com.hbaxa.testcases.TC_ReimOverviewReverseTest_001">
+				<methods>
+					<include name="loginLevel2Test" />
+					<include name="reimOverviewReverse" />
+					<include name="logoutLevel2Test"/>
+				</methods>
+			</class> -->
+			
+		</classes>
+	</test>
+ 
+	<!-- DO NOT ACITVIATE BELOW TEST  -->
+
+ 	<test name="TC_PA_DocID_Life"> <!-- this works for chopping only and currently active only in UAT S4 and docID require for this -->
+		<parameter name="Browser" value="chrome" />
+		<parameter name="tc_row" value="11" />
+		<parameter name="test_name" value="TC_PA_DocID_Life_" />
+		<classes>
+			
+			<!-- <class name="com.hbaxa.testcases.TC_PATestDoc_002">
+				<methods>
+					<include name="paTestDocId" />
+					<include name="paChoppingDoc" />
+				</methods>
+			</class> -->
+			
+		</classes>
+	</test> 
+	
+ 	<test name="TC_NM_Life">
+	<parameter name="Browser" value="chrome" />
+	<parameter name="tc_row" value="2" />
+	<parameter name="test_name" value="TC_NM_Life_" />
+		 <classes>
+			 <!-- <class name="com.hbaxa.testcases.TC_NM_SProvider_Test_001">
+			 <methods>
+			 	<include name="loginNMSprovider"/>
+			 	<include name="createNewSprovider"/>
+			 	<include name="SearchNewSprovider"/>
+			 	<include name="logoutNMSprovider"/>
+			 </methods>
+			</class>
+			
+			 <class name="com.hbaxa.testcases.TC_NM_MClinic_Test_001">
+			 <methods>
+			 	<include name="loginNMMClinic"/>
+			 	<include name="createNewMClinic"/>
+			 	<include name="searchNewMClinic"/>
+			 	<include name="logoutNMMClinic"/>
+			 </methods>
+			</class>
+			
+			 <class name="com.hbaxa.testcases.TC_NM_MHospital_Test_001">
+			 <methods>
+			 	<include name="loginNMMHospital"/>
+			 	<include name="createNewMHospital"/>
+			 	<include name="searchNewMHospital"/>
+			 	<include name="logoutNMMHospital"/>
+			 </methods>
+			</class>
+			
+ 			<class name="com.hbaxa.testcases.TC_NM_MPanel_Test_001">
+			 <methods>
+			 	<include name="loginNMMPanel"/>
+			 	<include name="createNewMPanel"/>
+			 	<include name="searchNewMPanel"/>
+			 	<include name="logoutNMMPanel"/>
+			 </methods>
+			</class>
+			
+ 			<class name="com.hbaxa.testcases.TC_NM_MNetwork_Test_001">
+			 <methods>
+			 	<include name="loginNMMNetwork"/>
+			 	<include name="createNewMNetwork"/>
+			 	<include name="searchNewMNetwork"/>
+			 	<include name="logoutNMMNetwork"/>
+			 </methods>
+			</class> -->
+
+		</classes>
+	</test>
+	
+	
+</suite>

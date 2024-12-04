@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-hbAxaTest" class="navigator-link">
+              <span class="suite-name border-skipped">hbAxaTest</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-hbAxaTest" class="navigator-link ">
+                    <span>C:\Users\atul.dhote\eclipse-workspace\hbAxaTest\hbAxaTest\testngLife.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-hbAxaTest" class="navigator-link ">
+                    <span class="test-stats">7 tests</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-hbAxaTest" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-hbAxaTest" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-hbAxaTest" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-hbAxaTest" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-hbAxaTest" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">13 methods,  13 skipped,  </span>
+                  </li>
+                  <li>
+                    <span class="method-list-title skipped">Skipped methods</span>
+                    <span class="show-or-hide-methods skipped">
+                      <a href="#" panel-name="suite-hbAxaTest" class="hide-methods skipped suite-hbAxaTest"> (hide)</a> <!-- hide-methods skipped suite-hbAxaTest -->
+                      <a href="#" panel-name="suite-hbAxaTest" class="show-methods skipped suite-hbAxaTest"> (show)</a> <!-- show-methods skipped suite-hbAxaTest -->
+                    </span>
+                    <div class="method-list-content skipped suite-hbAxaTest">
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-hbAxaTest" title="com.hbaxa.testcases.TC_PATest_001" class="method navigator-link" hash-for-method="indexPASearch">indexPASearch</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-hbAxaTest" title="com.hbaxa.testcases.TC_ReimDCTestManual_001" class="method navigator-link" hash-for-method="loginLevel0Test(11)">loginLevel0Test(11)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-hbAxaTest" title="com.hbaxa.testcases.TC_ReimDCTestManual_001" class="method navigator-link" hash-for-method="logoutLevel0Test">logoutLevel0Test</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-hbAxaTest" title="com.hbaxa.testcases.TC_PATest_001" class="method navigator-link" hash-for-method="paActivityLog">paActivityLog</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-hbAxaTest" title="com.hbaxa.testcases.TC_PATest_001" class="method navigator-link" hash-for-method="paGenerateLetter">paGenerateLetter</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-hbAxaTest" title="com.hbaxa.testcases.TC_PATestAdjustment_001" class="method navigator-link" hash-for-method="paTestAdjustment(10)">paTestAdjustment(10)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-hbAxaTest" title="com.hbaxa.testcases.TC_PATest_001" class="method navigator-link" hash-for-method="paTestManual(10)">paTestManual(10)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-hbAxaTest" title="com.hbaxa.testcases.TC_PATest_001" class="method navigator-link" hash-for-method="paViewpage">paViewpage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-hbAxaTest" title="com.hbaxa.testcases.TC_PATestAdjustment_001" class="method navigator-link" hash-for-method="palistAdjustmentLogLetter">palistAdjustmentLogLetter</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-hbAxaTest" title="com.hbaxa.testcases.TC_PATest_001" class="method navigator-link" hash-for-method="palistSearch">palistSearch</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-hbAxaTest" title="com.hbaxa.testcases.TC_PATestAdjustment_001" class="method navigator-link" hash-for-method="palistSearchAdjustment">palistSearchAdjustment</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-hbAxaTest" title="com.hbaxa.testcases.TC_ReimDCTestManual_001" class="method navigator-link" hash-for-method="reimDCaptureManual">reimDCaptureManual</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-hbAxaTest" title="com.hbaxa.testcases.TC_ReimDCTestManual_001" class="method navigator-link" hash-for-method="reimDCaptureSearchClaim">reimDCaptureSearchClaim</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content skipped suite-hbAxaTest -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-hbAxaTest" class="panel hbAxaTest">
+          <div class="suite-hbAxaTest-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.hbaxa.testcases.TC_PATest_001</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="indexPASearch">
+                  </a> <!-- indexPASearch -->
+                  <span class="method-name">indexPASearch</span>
+                  <div class="stack-trace">java.lang.Throwable: Method TC_PATest_001.indexPASearch(java.lang.String)[pri:4, instance:com.hbaxa.testcases.TC_PATest_001@52815fa3] depends on not successfully finished methods
+... Removed 17 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="paActivityLog">
+                  </a> <!-- paActivityLog -->
+                  <span class="method-name">paActivityLog</span>
+                  <div class="stack-trace">java.lang.Throwable: Method TC_PATest_001.paActivityLog(java.lang.String)[pri:6, instance:com.hbaxa.testcases.TC_PATest_001@52815fa3] depends on not successfully finished methods
+... Removed 17 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="paGenerateLetter">
+                  </a> <!-- paGenerateLetter -->
+                  <span class="method-name">paGenerateLetter</span>
+                  <div class="stack-trace">java.lang.Throwable: Method TC_PATest_001.paGenerateLetter(java.lang.String)[pri:3, instance:com.hbaxa.testcases.TC_PATest_001@52815fa3] depends on not successfully finished methods
+... Removed 17 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="paTestManual(10)">
+                  </a> <!-- paTestManual(10) -->
+                  <span class="method-name">paTestManual</span>
+                  <span class="parameters">(10)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="paViewpage">
+                  </a> <!-- paViewpage -->
+                  <span class="method-name">paViewpage</span>
+                  <div class="stack-trace">java.lang.Throwable: Method TC_PATest_001.paViewpage(java.lang.String)[pri:7, instance:com.hbaxa.testcases.TC_PATest_001@52815fa3] depends on not successfully finished methods
+... Removed 17 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="palistSearch">
+                  </a> <!-- palistSearch -->
+                  <span class="method-name">palistSearch</span>
+                  <div class="stack-trace">java.lang.Throwable: Method TC_PATest_001.palistSearch(java.lang.String)[pri:2, instance:com.hbaxa.testcases.TC_PATest_001@52815fa3] depends on not successfully finished methods
+... Removed 17 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-hbAxaTest-class-skipped -->
+          <div class="suite-hbAxaTest-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.hbaxa.testcases.TC_ReimDCTestManual_001</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginLevel0Test(11)">
+                  </a> <!-- loginLevel0Test(11) -->
+                  <span class="method-name">loginLevel0Test</span>
+                  <span class="parameters">(11)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="logoutLevel0Test">
+                  </a> <!-- logoutLevel0Test -->
+                  <span class="method-name">logoutLevel0Test</span>
+                  <div class="stack-trace">java.lang.Throwable: Method TC_ReimDCTestManual_001.logoutLevel0Test(java.lang.String)[pri:4, instance:com.hbaxa.testcases.TC_ReimDCTestManual_001@45ac5f9b] depends on not successfully finished methods
+... Removed 17 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="reimDCaptureManual">
+                  </a> <!-- reimDCaptureManual -->
+                  <span class="method-name">reimDCaptureManual</span>
+                  <div class="stack-trace">java.lang.Throwable: Method TC_ReimDCTestManual_001.reimDCaptureManual(java.lang.String)[pri:2, instance:com.hbaxa.testcases.TC_ReimDCTestManual_001@45ac5f9b] depends on not successfully finished methods
+... Removed 17 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="reimDCaptureSearchClaim">
+                  </a> <!-- reimDCaptureSearchClaim -->
+                  <span class="method-name">reimDCaptureSearchClaim</span>
+                  <div class="stack-trace">java.lang.Throwable: Method TC_ReimDCTestManual_001.reimDCaptureSearchClaim(java.lang.String)[pri:3, instance:com.hbaxa.testcases.TC_ReimDCTestManual_001@45ac5f9b] depends on not successfully finished methods
+... Removed 17 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-hbAxaTest-class-skipped -->
+          <div class="suite-hbAxaTest-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.hbaxa.testcases.TC_PATestAdjustment_001</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="paTestAdjustment(10)">
+                  </a> <!-- paTestAdjustment(10) -->
+                  <span class="method-name">paTestAdjustment</span>
+                  <span class="parameters">(10)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="palistAdjustmentLogLetter">
+                  </a> <!-- palistAdjustmentLogLetter -->
+                  <span class="method-name">palistAdjustmentLogLetter</span>
+                  <div class="stack-trace">java.lang.Throwable: Method TC_PATestAdjustment_001.palistAdjustmentLogLetter(java.lang.String)[pri:3, instance:com.hbaxa.testcases.TC_PATestAdjustment_001@1cb346ea] depends on not successfully finished methods
+... Removed 17 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="palistSearchAdjustment">
+                  </a> <!-- palistSearchAdjustment -->
+                  <span class="method-name">palistSearchAdjustment</span>
+                  <div class="stack-trace">java.lang.Throwable: Method TC_PATestAdjustment_001.palistSearchAdjustment(java.lang.String)[pri:2, instance:com.hbaxa.testcases.TC_PATestAdjustment_001@1cb346ea] depends on not successfully finished methods
+... Removed 17 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-hbAxaTest-class-skipped -->
+        </div> <!-- panel hbAxaTest -->
+        <div panel-name="test-xml-hbAxaTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\atul.dhote\eclipse-workspace\hbAxaTest\hbAxaTest\testngLife.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;hbAxaTest&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.hbaxa.utilities.Reporting&quot;/&gt;
+    &lt;listener class-name=&quot;com.hbaxa.utilities.RetryListenerClass&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test name=&quot;TC_PA_Life&quot;&gt;
+    &lt;parameter name=&quot;tc_row&quot; value=&quot;10&quot;/&gt;
+    &lt;parameter name=&quot;test_name&quot; value=&quot;TC_PA_Life_&quot;/&gt;
+    &lt;parameter name=&quot;Browser&quot; value=&quot;chrome&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.hbaxa.testcases.TC_PATest_001&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;paTestManual&quot;/&gt;
+          &lt;include name=&quot;indexPASearch&quot;/&gt;
+          &lt;include name=&quot;palistSearch&quot;/&gt;
+          &lt;include name=&quot;paGenerateLetter&quot;/&gt;
+          &lt;include name=&quot;paActivityLog&quot;/&gt;
+          &lt;include name=&quot;paViewpage&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- com.hbaxa.testcases.TC_PATest_001 --&gt;
+      &lt;class name=&quot;com.hbaxa.testcases.TC_PATestAdjustment_001&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;paTestAdjustment&quot;/&gt;
+          &lt;include name=&quot;palistSearchAdjustment&quot;/&gt;
+          &lt;include name=&quot;palistAdjustmentLogLetter&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- com.hbaxa.testcases.TC_PATestAdjustment_001 --&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- TC_PA_Life --&gt;
+  &lt;test name=&quot;TC_Cashless_Life&quot;&gt;
+    &lt;parameter name=&quot;tc_row&quot; value=&quot;11&quot;/&gt;
+    &lt;parameter name=&quot;test_name&quot; value=&quot;TC_Cashless_Life_&quot;/&gt;
+    &lt;parameter name=&quot;Browser&quot; value=&quot;chrome&quot;/&gt;
+  &lt;/test&gt; &lt;!-- TC_Cashless_Life --&gt;
+  &lt;test name=&quot;TC_Reimbursment_Life&quot;&gt;
+    &lt;parameter name=&quot;tc_row&quot; value=&quot;11&quot;/&gt;
+    &lt;parameter name=&quot;test_name&quot; value=&quot;TC_Reimbursment_Life_&quot;/&gt;
+    &lt;parameter name=&quot;Browser&quot; value=&quot;chrome&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.hbaxa.testcases.TC_ReimDCTestManual_001&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;loginLevel0Test&quot;/&gt;
+          &lt;include name=&quot;reimDCaptureManual&quot;/&gt;
+          &lt;include name=&quot;reimDCaptureSearchClaim&quot;/&gt;
+          &lt;include name=&quot;logoutLevel0Test&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- com.hbaxa.testcases.TC_ReimDCTestManual_001 --&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- TC_Reimbursment_Life --&gt;
+  &lt;test name=&quot;TC_PA_DocID_Life&quot;&gt;
+    &lt;parameter name=&quot;tc_row&quot; value=&quot;11&quot;/&gt;
+    &lt;parameter name=&quot;test_name&quot; value=&quot;TC_PA_DocID_Life_&quot;/&gt;
+    &lt;parameter name=&quot;Browser&quot; value=&quot;chrome&quot;/&gt;
+  &lt;/test&gt; &lt;!-- TC_PA_DocID_Life --&gt;
+  &lt;test name=&quot;TC_NM_Life&quot;&gt;
+    &lt;parameter name=&quot;tc_row&quot; value=&quot;2&quot;/&gt;
+    &lt;parameter name=&quot;test_name&quot; value=&quot;TC_NM_Life_&quot;/&gt;
+    &lt;parameter name=&quot;Browser&quot; value=&quot;chrome&quot;/&gt;
+  &lt;/test&gt; &lt;!-- TC_NM_Life --&gt;
+  &lt;test name=&quot;TC_PA_Life(failed)&quot;&gt;
+    &lt;parameter name=&quot;tc_row&quot; value=&quot;10&quot;/&gt;
+    &lt;parameter name=&quot;test_name&quot; value=&quot;TC_PA_Life_&quot;/&gt;
+    &lt;parameter name=&quot;Browser&quot; value=&quot;chrome&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.hbaxa.testcases.TC_PATest_001&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;paGenerateLetter&quot;/&gt;
+          &lt;include name=&quot;palistSearch&quot;/&gt;
+          &lt;include name=&quot;indexPASearch&quot;/&gt;
+          &lt;include name=&quot;setup&quot;/&gt;
+          &lt;include name=&quot;paViewpage&quot;/&gt;
+          &lt;include name=&quot;paActivityLog&quot;/&gt;
+          &lt;include name=&quot;paTestManual&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- com.hbaxa.testcases.TC_PATest_001 --&gt;
+      &lt;class name=&quot;com.hbaxa.testcases.TC_ReimDCTestManual_001&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;setup&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- com.hbaxa.testcases.TC_ReimDCTestManual_001 --&gt;
+      &lt;class name=&quot;com.hbaxa.testcases.TC_PATestAdjustment_001&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;palistSearchAdjustment&quot;/&gt;
+          &lt;include name=&quot;paTestAdjustment&quot;/&gt;
+          &lt;include name=&quot;palistAdjustmentLogLetter&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- com.hbaxa.testcases.TC_PATestAdjustment_001 --&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- TC_PA_Life(failed) --&gt;
+  &lt;test name=&quot;TC_Reimbursment_Life(failed)&quot;&gt;
+    &lt;parameter name=&quot;tc_row&quot; value=&quot;11&quot;/&gt;
+    &lt;parameter name=&quot;test_name&quot; value=&quot;TC_Reimbursment_Life_&quot;/&gt;
+    &lt;parameter name=&quot;Browser&quot; value=&quot;chrome&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.hbaxa.testcases.TC_ReimDCTestManual_001&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;setup&quot;/&gt;
+          &lt;include name=&quot;reimDCaptureManual&quot;/&gt;
+          &lt;include name=&quot;logoutLevel0Test&quot;/&gt;
+          &lt;include name=&quot;reimDCaptureSearchClaim&quot;/&gt;
+          &lt;include name=&quot;loginLevel0Test&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- com.hbaxa.testcases.TC_ReimDCTestManual_001 --&gt;
+      &lt;class name=&quot;com.hbaxa.testcases.TC_PATest_001&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;setup&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- com.hbaxa.testcases.TC_PATest_001 --&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- TC_Reimbursment_Life(failed) --&gt;
+&lt;/suite&gt; &lt;!-- hbAxaTest --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-hbAxaTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for hbAxaTest</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">TC_PA_Life (2 classes)</span>
+              </li>
+              <li>
+                <span class="test-name">TC_Cashless_Life (0 classes)</span>
+              </li>
+              <li>
+                <span class="test-name">TC_Reimbursment_Life (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">TC_PA_DocID_Life (0 classes)</span>
+              </li>
+              <li>
+                <span class="test-name">TC_NM_Life (0 classes)</span>
+              </li>
+              <li>
+                <span class="test-name">TC_PA_Life(failed) (3 classes)</span>
+              </li>
+              <li>
+                <span class="test-name">TC_Reimbursment_Life(failed) (2 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-hbAxaTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for hbAxaTest</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-hbAxaTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for hbAxaTest</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_hbAxaTest');
+function tableData_hbAxaTest() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(13);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'paTestAdjustment')
+data.setCell(0, 2, 'com.hbaxa.testcases.TC_PATestAdjustment_001')
+data.setCell(0, 3, 8);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'paTestManual')
+data.setCell(1, 2, 'com.hbaxa.testcases.TC_PATest_001')
+data.setCell(1, 3, 2);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'loginLevel0Test')
+data.setCell(2, 2, 'com.hbaxa.testcases.TC_ReimDCTestManual_001')
+data.setCell(2, 3, 1);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'palistAdjustmentLogLetter')
+data.setCell(3, 2, 'com.hbaxa.testcases.TC_PATestAdjustment_001')
+data.setCell(3, 3, 0);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'paActivityLog')
+data.setCell(4, 2, 'com.hbaxa.testcases.TC_PATest_001')
+data.setCell(4, 3, 0);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'palistSearchAdjustment')
+data.setCell(5, 2, 'com.hbaxa.testcases.TC_PATestAdjustment_001')
+data.setCell(5, 3, 0);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'paViewpage')
+data.setCell(6, 2, 'com.hbaxa.testcases.TC_PATest_001')
+data.setCell(6, 3, 0);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'palistSearch')
+data.setCell(7, 2, 'com.hbaxa.testcases.TC_PATest_001')
+data.setCell(7, 3, 0);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'indexPASearch')
+data.setCell(8, 2, 'com.hbaxa.testcases.TC_PATest_001')
+data.setCell(8, 3, 0);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'paGenerateLetter')
+data.setCell(9, 2, 'com.hbaxa.testcases.TC_PATest_001')
+data.setCell(9, 3, 0);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'logoutLevel0Test')
+data.setCell(10, 2, 'com.hbaxa.testcases.TC_ReimDCTestManual_001')
+data.setCell(10, 3, 0);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'reimDCaptureManual')
+data.setCell(11, 2, 'com.hbaxa.testcases.TC_ReimDCTestManual_001')
+data.setCell(11, 3, 0);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'reimDCaptureSearchClaim')
+data.setCell(12, 2, 'com.hbaxa.testcases.TC_ReimDCTestManual_001')
+data.setCell(12, 3, 0);
+window.suiteTableData['hbAxaTest']= { tableData: data, tableDiv: 'times-div-hbAxaTest'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 11 ms</span>
+              <div id="times-div-hbAxaTest">
+              </div> <!-- times-div-hbAxaTest -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-hbAxaTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for hbAxaTest</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-hbAxaTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">1 ignored method</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.hbaxa.testcases.TC_PATest_001</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">paassessmentEnq</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-hbAxaTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.hbaxa.testcases.TC_PATest_001</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">setup(chrome, 10, TC_PA_Life_)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">paTestManual(10)</span>
+                <span class="method-start">10140 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.hbaxa.testcases.TC_PATestAdjustment_001</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">paTestAdjustment(10)</span>
+                <span class="method-start">10223 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.hbaxa.testcases.TC_ReimDCTestManual_001</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">setup(chrome, 11, TC_Reimbursment_Life_)</span>
+                <span class="method-start">10763 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">loginLevel0Test(11)</span>
+                <span class="method-start">11938 ms</span>
+              </div> <!-- test-method -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

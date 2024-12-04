@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+ <!--  --> <suite name="hbAxaTest" parallel="false">  
+ <!--   <suite name="hbAxaTest" parallel="tests" thread-count="2" > -->
+ 
+	
+	<listeners>
+		<listener class-name="com.hbaxa.utilities.Reporting" />
+		<listener class-name="com.hbaxa.utilities.RetryListenerClass" />
+	</listeners>
+	
+	<!--	==============1=Execute below script fopr Approve  &   value="10" =============  -->
+	
+	<test name="TC_PA_Aprrove"> <!-- This is test id collect from excel sheet -->
+		<parameter name="Browser" value="chrome" />
+		<parameter name="tc_row" value="10" /> <!-- GIPA Sheet Approve tc_row value must be match from input data excel sheet(row number) -->
+		<parameter name="test_name" value="TC_PA_Aprrove" />
+		 <classes>
+			
+			
+		
+			<!--    <class name="com.hbaxa.testcases.TC_PATest_001_new_TC">
+				<methods>
+					<include name="paTestManual" />
+					<include name="indexPASearch"/>
+					<include name="palistSearch" />
+					<exclude name="paGenerateLetter" />
+					<exclude name="paActivityLog"/>
+					<exclude name="paViewpage"/>
+				</methods>
+			</class> -->
+			
+	<!--	 <class name="com.hbaxa.testcases.TC_PATestAdjustment_001">-->	
+		<!-- <class name="com.hbaxa.testcases.TC_PATestAdjustment_001_newTC">	
+				<methods>
+					<include name="paTestAdjustment" />
+					<include name="palistSearchAdjustment" />
+					<exclude name="palistAdjustmentLogLetter" />
+				</methods>
+			</class> 	 -->
+			
+		</classes> 
+	</test>
+	
+	
+	<!--	===========2====Execute below script fopr PENDING  &   value="14"  ====================== -->
+	
+	
+	
+	
+		<!--	=======3========Execute below script fopr REJECT  &   value="13"  ====================== -->
+
+	<test name="TC_PA_Reject"> <!-- This is test id collect from excel sheet -->
+		<parameter name="Browser" value="chrome" />
+		<parameter name="tc_row" value="13" />	<!--Reject TC  GIPA Sheet-->
+		<parameter name="test_name" value="TC_PA_Reject" />
+		 <classes>
+			
+		<!-- 	<class name="com.hbaxa.testcases.TC_PATest_001_new_TC">
+				<methods>
+					<include name="paTestManual" />
+					<include name="indexPASearch"/>
+					<include name="palistSearch" />
+					
+				</methods>
+			</class>  -->
+		</classes>	
+	</test>
+	
+	
+	<!--	=======4========Execute below script fopr CHopping  &   value="15"  ====================== -->
+	
+		<test name="TC_PA_Chopping"> <!-- This is test id collect from excel sheet -->
+		<parameter name="Browser" value="chrome" />
+			<parameter name="tc_row" value="15" /><!-- Chopping TC  GIPA Sheet-->
+		<parameter name="test_name" value="TC_PA_Chopping" />
+		 <classes>
+		<!--	  <class name="com.hbaxa.testcases.TC_PATest_001_new_TC">
+				<methods>
+					<include name="paTestManual" />
+					<include name="indexPASearch"/>
+					<include name="palistSearch" />
+					
+				</methods>
+			</class> --> 
+			
+		</classes>
+	</test>
+	
+	
+	
+	<!--	=======5========Execute below script fopr Cancel  &   value="16"  ====================== -->
+	
+		<test name="TC_PA_Cancel"> <!-- This is test id collect from excel sheet -->
+		<parameter name="Browser" value="chrome" />
+			<parameter name="tc_row" value="16" /><!-- Cancel TC  GIPA Sheet-->
+		<parameter name="test_name" value="TC_PA_Cancel" />
+		 <classes>
+			
+		
+				<!--    <class name="com.hbaxa.testcases.TC_PATest_001_new_TC">
+				<methods>
+					<include name="paTestManual" />
+					<exclude name="indexPASearch"/>
+					<include name="palistSearch" />
+					
+				</methods> 
+			</class> -->
+			
+	
+			
+		</classes>
+	</test>
+	
+	
+	<!--	=======6========Execute below script fopr Withdraw  &   value="17"  ====================== -->
+	
+		<test name="TC_PA_Withdraw"> <!-- This is test id collect from excel sheet -->
+		<parameter name="Browser" value="chrome" />
+			<parameter name="tc_row" value="17" /><!-- Cancel TC   GIPA Sheet -->
+		<parameter name="test_name" value="TC_PA_Withdraw" />
+		 <classes>
+			
+		
+			<!--  <class name="com.hbaxa.testcases.TC_PATest_001_new_TC">
+				<methods>
+					<include name="paTestManual" />
+					<include name="indexPASearch"/>
+					<include name="palistSearch" />
+					
+				</methods>
+			</class>   -->
+			
+			
+	
+			
+		</classes>
+	</test>
+	
+	<!--	=======7========Execute below script fopr Delete  &   value="26" not working Run on script  ====================== -->
+	
+		<test name="TC_PA_Delete"> <!-- This is test id collect from excel sheet -->
+		<parameter name="Browser" value="chrome" />
+			<parameter name="tc_row" value="26" /><!-- Delete  GIPA Sheet-->
+		<parameter name="test_name" value="TC_PA_Delete" />
+		 <classes>
+			
+		
+			<!--  <class name="com.hbaxa.testcases.TC_PATest_001_new_TC">
+				<methods>
+					<include name="paTestManual" />
+					<include name="indexPASearch"/>
+					<include name="palistSearch" />
+					
+				</methods>
+			</class>   -->
+			
+			
+	
+			
+		</classes>
+	</test>
+	
+	<!--	======8=========Execute below script Pre_Approval_View &   value="10" not working Run on script  ====================== -->
+	
+	<test name="TC_PA_List_Pre_Approval_View"> <!-- This is test id collect from excel sheet -->
+		<parameter name="Browser" value="edge" />
+			<parameter name="tc_row" value="10" /><!-- Pre_Approval_View   PAADJUSTMENTSheet-->
+		<parameter name="test_name" value="TC_PA_List_Pre_Approval_View" />
+		 <classes>
+			
+		
+			<!--   <class name="com.hbaxa.testcases.TC_PA_List_newTC">
+				<methods>
+					<include name="palist_Pre_Approval_View" />
+					
+					
+				</methods>
+			</class>  -->
+		</classes>
+	</test>
+	
+	
+		<!--	======9=========Execute below script Dashboard &   value="10" not working Run on script  ====================== -->
+
+	<test name="TC_Dashboard"> <!-- This is test id collect from excel sheet -->
+		<parameter name="Browser" value="chrome" />
+			<parameter name="tc_row" value="10" /><!-- PAADJUSTMENTSheet-->
+		<parameter name="test_name" value="TC_Dashboard" />
+		 <classes>
+			
+		
+			<!-- --> <class name="com.hbaxa.testcases.TC_PA_List_newTC">
+				<methods>
+					<include name="dashboard_tc" />
+					
+					
+				</methods>
+			</class>  
+		</classes>
+	</test>
+	
+	
+		<!--	======9=========Execute below script ReimbursmentFlow  ====================== -->
+	
+	
+</suite>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [hbAxaTest]" guice-stage="DEVELOPMENT">
+  <parameter name="tc_row" value="2"/>
+  <parameter name="test_name" value="TC_NM_Life_"/>
+  <parameter name="Browser" value="chrome"/>
+  <listeners>
+    <listener class-name="com.hbaxa.utilities.Reporting"/>
+    <listener class-name="com.hbaxa.utilities.RetryListenerClass"/>
+  </listeners>
+  <test name="TC_PA_Life">
+    <parameter name="tc_row" value="10"/>
+    <parameter name="test_name" value="TC_PA_Life_"/>
+    <parameter name="Browser" value="chrome"/>
+    <classes>
+      <class name="com.hbaxa.testcases.TC_PATest_001">
+        <methods>
+          <include name="paTestManual"/>
+          <include name="indexPASearch"/>
+          <include name="palistSearch"/>
+          <include name="paGenerateLetter"/>
+          <include name="paActivityLog"/>
+          <include name="paViewpage"/>
+        </methods>
+      </class> <!-- com.hbaxa.testcases.TC_PATest_001 -->
+      <class name="com.hbaxa.testcases.TC_PATestAdjustment_001">
+        <methods>
+          <include name="paTestAdjustment"/>
+          <include name="palistSearchAdjustment"/>
+          <include name="palistAdjustmentLogLetter"/>
+        </methods>
+      </class> <!-- com.hbaxa.testcases.TC_PATestAdjustment_001 -->
+    </classes>
+  </test> <!-- TC_PA_Life -->
+  <test name="TC_Cashless_Life">
+    <parameter name="tc_row" value="11"/>
+    <parameter name="test_name" value="TC_Cashless_Life_"/>
+    <parameter name="Browser" value="chrome"/>
+  </test> <!-- TC_Cashless_Life -->
+  <test name="TC_Reimbursment_Life">
+    <parameter name="tc_row" value="11"/>
+    <parameter name="test_name" value="TC_Reimbursment_Life_"/>
+    <parameter name="Browser" value="chrome"/>
+    <classes>
+      <class name="com.hbaxa.testcases.TC_ReimDCTestManual_001">
+        <methods>
+          <include name="loginLevel0Test"/>
+          <include name="reimDCaptureManual"/>
+          <include name="reimDCaptureSearchClaim"/>
+          <include name="logoutLevel0Test"/>
+        </methods>
+      </class> <!-- com.hbaxa.testcases.TC_ReimDCTestManual_001 -->
+    </classes>
+  </test> <!-- TC_Reimbursment_Life -->
+  <test name="TC_PA_DocID_Life">
+    <parameter name="tc_row" value="11"/>
+    <parameter name="test_name" value="TC_PA_DocID_Life_"/>
+    <parameter name="Browser" value="chrome"/>
+  </test> <!-- TC_PA_DocID_Life -->
+  <test name="TC_NM_Life">
+    <parameter name="tc_row" value="2"/>
+    <parameter name="test_name" value="TC_NM_Life_"/>
+    <parameter name="Browser" value="chrome"/>
+  </test> <!-- TC_NM_Life -->
+  <test name="TC_PA_Life(failed)">
+    <parameter name="tc_row" value="10"/>
+    <parameter name="test_name" value="TC_PA_Life_"/>
+    <parameter name="Browser" value="chrome"/>
+    <classes>
+      <class name="com.hbaxa.testcases.TC_PATest_001">
+        <methods>
+          <include name="paGenerateLetter"/>
+          <include name="palistSearch"/>
+          <include name="indexPASearch"/>
+          <include name="setup"/>
+          <include name="paViewpage"/>
+          <include name="paActivityLog"/>
+          <include name="paTestManual"/>
+        </methods>
+      </class> <!-- com.hbaxa.testcases.TC_PATest_001 -->
+      <class name="com.hbaxa.testcases.TC_ReimDCTestManual_001">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.hbaxa.testcases.TC_ReimDCTestManual_001 -->
+      <class name="com.hbaxa.testcases.TC_PATestAdjustment_001">
+        <methods>
+          <include name="palistSearchAdjustment"/>
+          <include name="paTestAdjustment"/>
+          <include name="palistAdjustmentLogLetter"/>
+        </methods>
+      </class> <!-- com.hbaxa.testcases.TC_PATestAdjustment_001 -->
+    </classes>
+  </test> <!-- TC_PA_Life(failed) -->
+  <test name="TC_Reimbursment_Life(failed)">
+    <parameter name="tc_row" value="11"/>
+    <parameter name="test_name" value="TC_Reimbursment_Life_"/>
+    <parameter name="Browser" value="chrome"/>
+    <classes>
+      <class name="com.hbaxa.testcases.TC_ReimDCTestManual_001">
+        <methods>
+          <include name="setup"/>
+          <include name="reimDCaptureManual"/>
+          <include name="logoutLevel0Test"/>
+          <include name="reimDCaptureSearchClaim"/>
+          <include name="loginLevel0Test"/>
+        </methods>
+      </class> <!-- com.hbaxa.testcases.TC_ReimDCTestManual_001 -->
+      <class name="com.hbaxa.testcases.TC_PATest_001">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.hbaxa.testcases.TC_PATest_001 -->
+    </classes>
+  </test> <!-- TC_Reimbursment_Life(failed) -->
+</suite> <!-- Failed suite [hbAxaTest] -->

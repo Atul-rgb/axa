@@ -1,0 +1,1198 @@
+10-18-2022 18:26:32 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 34 - Base url launched - http://192.168.1.210/HealthBuzzApp/internal
+10-18-2022 18:26:32 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 36 - <===== Login test started ====>
+10-18-2022 18:26:33 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 41 - Username Entered
+10-18-2022 18:26:33 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 44 - Password Entered
+10-18-2022 18:26:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 47 - Submit Button Clicked
+10-18-2022 18:26:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 52 - ====> Login Test Pass <====
+10-18-2022 18:26:40 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 82 - <==== REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST STARTED ====>
+10-18-2022 18:26:41 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 87 - Claim clicked
+10-18-2022 18:26:42 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 90 - Reimbursment Clicked
+10-18-2022 18:26:47 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 93 - DataCapture Clicked
+10-18-2022 18:27:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 101 - Add Manual Claim Clicked
+10-18-2022 18:27:10 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 111 - Clicked Modify to Enter Policy Number
+10-18-2022 18:27:10 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 114 - Policy Number Entered..
+10-18-2022 18:27:13 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 146 - Policy Selected..
+10-18-2022 18:27:30 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 203 - Go To Creation Form
+10-18-2022 18:27:30 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 206 - Treatment Location Entered
+10-18-2022 18:27:35 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 210 - Treatment Location Selected
+10-18-2022 18:27:35 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 213 - Doctor Name Entered
+10-18-2022 18:27:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 217 - Doctor Name Selected
+10-18-2022 18:27:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 220 - Services selected...
+10-18-2022 18:27:39 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 223 - Date of Admission Entered
+10-18-2022 18:27:40 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 226 - Admission Time Entered
+10-18-2022 18:27:41 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 229 - Date of Discharge Entered
+10-18-2022 18:27:41 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 232 - Ward type selected..
+10-18-2022 18:27:42 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 235 - Discharge Time Entered
+10-18-2022 18:27:42 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 238 - Contact Number Entered
+10-18-2022 18:27:42 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 241 - Email Adress Entered
+10-18-2022 18:27:43 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 244 - Symptom/complaint Entered
+10-18-2022 18:27:43 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 247 - Bill Currency Selected
+10-18-2022 18:27:43 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 250 - Submission Date Entered
+10-18-2022 18:27:52 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 256 - Go To ICD Description
+10-18-2022 18:27:56 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 270 - 1 ICD CODE ENTERED - K29.8
+10-18-2022 18:27:58 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 274 - 1 ICD CODE Selected - K29.8
+10-18-2022 18:27:58 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 277 - 1 ICD ADD BUTTON CLICKED
+10-18-2022 18:28:01 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 270 - 2 ICD CODE ENTERED - I84.0
+10-18-2022 18:28:04 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 274 - 2 ICD CODE Selected - I84.0
+10-18-2022 18:28:04 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 277 - 2 ICD ADD BUTTON CLICKED
+10-18-2022 18:28:07 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 270 - 3 ICD CODE ENTERED - K63.5
+10-18-2022 18:28:09 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 274 - 3 ICD CODE Selected - K63.5
+10-18-2022 18:28:09 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 277 - 3 ICD ADD BUTTON CLICKED
+10-18-2022 18:28:20 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 310 - ICD Table Displayed.
+10-18-2022 18:28:20 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 322 - Go To Surgery Description
+10-18-2022 18:28:21 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 357 - Surgery Code Entered
+10-18-2022 18:28:23 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 361 - Surgery Code Selected
+10-18-2022 18:28:23 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 364 - Surgery Amount Entered
+10-18-2022 18:28:23 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 367 - Incision Selected
+10-18-2022 18:28:26 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 371 - Surgery Button Add Clicked
+10-18-2022 18:28:29 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 378 - Surgery Table Displayed.
+10-18-2022 18:28:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 390 - Go To Settlement Method
+10-18-2022 18:28:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 393 - Settlement Type Selected
+10-18-2022 18:28:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 396 - Member Address Clicked
+10-18-2022 18:28:41 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 401 - GO TO DISPLAY BILL
+10-18-2022 18:28:46 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 482 - Clicked Input By Benefit Item
+10-18-2022 18:28:47 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 485 - Ok Clicked..
+10-18-2022 18:28:51 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 497 - 1 Bill charge date entered. - 2018/09/01
+10-18-2022 18:28:55 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 502 - 1 Benefit Item Selected - Miscellaneous Hospital Expenses (Confinement Benefits)
+10-18-2022 18:28:57 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 507 - 1 No. of Claim Days Entered - 1
+10-18-2022 18:29:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 512 - 1 No. of Paid Days Entered - 1
+10-18-2022 18:29:02 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 517 - 1 Bill Amount Entered - 75
+10-18-2022 18:29:04 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 521 - 1 Add Bill Clicked
+10-18-2022 18:29:08 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 497 - 2 Bill charge date entered. - 2018/09/01
+10-18-2022 18:29:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 502 - 2 Benefit Item Selected - Daily Room & Board (Confinement Benefits)
+10-18-2022 18:29:14 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 507 - 2 No. of Claim Days Entered - 44
+10-18-2022 18:29:17 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 512 - 2 No. of Paid Days Entered - 44
+10-18-2022 18:29:19 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 517 - 2 Bill Amount Entered - 4540
+10-18-2022 18:29:21 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 521 - 2 Add Bill Clicked
+10-18-2022 18:29:46 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 607 - Save Clicked
+10-18-2022 18:29:49 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 610 - Alert Message: Success! Claim Number :-1013493 generated successfully.
+10-18-2022 18:29:49 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 618 - <=== Start to search save claim in data capture page ====>
+10-18-2022 18:29:50 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 623 - Claim clicked
+10-18-2022 18:29:52 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 626 - Reimbursment Clicked
+10-18-2022 18:29:56 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 629 - DataCapture Clicked
+10-18-2022 18:30:05 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 637 - Enter claim to search in data Capture
+10-18-2022 18:30:05 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 640 - Clicked on search Button
+10-18-2022 18:30:05 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 647 - Search claim verified on data caputure page.
+10-18-2022 18:30:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 660 - Click on Proceed
+10-18-2022 18:30:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 662 - ===> Process complete to search save claim in data capture page <====
+10-18-2022 18:30:25 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 713 - AssessmentEnquiry Clicked
+10-18-2022 18:30:34 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 720 - Click on Go Button
+10-18-2022 18:30:43 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 729 - Go To Assessment Page Details
+10-18-2022 18:30:44 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 732 - Claim Number Selected
+10-18-2022 18:30:44 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 735 - Descript Entered in Assessment
+10-18-2022 18:30:44 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 738 - Assessment Saved
+10-18-2022 18:31:08 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 746 - Assessment Pop up Closed.
+10-18-2022 18:31:09 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 749 - click on Show Hide Pop up Button
+10-18-2022 18:31:18 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 761 - Auto-Audjudicate Clicked
+10-18-2022 18:31:45 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 772 - Disabilities when occurring during the first year from the Effective Date
+10-18-2022 18:31:45 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 774 - Confirm Clicked
+10-18-2022 18:31:50 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 779 - Alert Accepted
+10-18-2022 18:31:59 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 784 - Alert Message: Claim # 1013493 pass to Ajay  Maurya
+10-18-2022 18:32:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 790 - Second Alert Accepted
+10-18-2022 18:32:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 822 - ====> REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST PASSED <====
+10-18-2022 18:32:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureSearchClaim] - INFO  - 850 - Screenshot already capture for data capture claim search
+10-18-2022 18:32:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 859 - <==== Logout Test Started ====>
+10-18-2022 18:32:11 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 863 - Profile Icon Clicked for logout
+10-18-2022 18:32:11 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 866 - Log Out Clicked
+10-18-2022 18:32:14 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 872 - ====> LogOut Test Pass <====
+10-18-2022 18:32:25 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 35 - Base url launched
+10-18-2022 18:32:25 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 37 - <===== Login test started ====>
+10-18-2022 18:32:26 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 42 - Username Entered
+10-18-2022 18:32:26 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 45 - Password Entered
+10-18-2022 18:32:27 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 48 - Submit Button Clicked
+10-18-2022 18:32:27 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 53 - ====> Login Test Pass <====
+10-18-2022 18:32:30 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 83 - <==== REIMBURSMENT OVERVIEW THROUGH MANUAL TEST STARTED ====>
+10-18-2022 18:32:32 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 88 - Claim clicked
+10-18-2022 18:32:33 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 91 - Reimbursment Clicked
+10-18-2022 18:32:39 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 94 - Reimbursment Overview Clicked
+10-18-2022 18:32:48 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 112 - Claim No Entered
+10-18-2022 18:32:49 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 123 - Case Picked by selected
+10-18-2022 18:32:50 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 127 - claim search
+10-18-2022 18:32:59 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 138 - Reassigned Clicked
+10-18-2022 18:33:00 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 144 - User Name Entered for Reassigned
+10-18-2022 18:33:00 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 147 - Search Clicked for Assigned User
+10-18-2022 18:33:01 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 150 - Select Clicked and User Assigned for the claim
+10-18-2022 18:33:15 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 161 - Proceed Clicked
+10-18-2022 18:33:53 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 185 - APS Generate Letter Button Clicked
+10-18-2022 18:34:01 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 197 - Doctor Name Entered
+10-18-2022 18:34:04 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 201 - Doctor Name Selected
+10-18-2022 18:34:04 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 204 - Go Clicked
+10-18-2022 18:34:11 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 217 - Title Entered
+10-18-2022 18:34:11 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 220 - Payee Entered
+10-18-2022 18:34:12 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 223 - Attention Name Entered
+10-18-2022 18:34:12 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 226 - Address 1 Entered
+10-18-2022 18:34:12 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 229 - Address 2 Entered
+10-18-2022 18:34:12 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 232 - Address 3 Entered
+10-18-2022 18:34:13 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 235 - Address 4 Entered
+10-18-2022 18:34:13 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 238 - Reminder Period Entered
+10-18-2022 18:34:15 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 242 - Question 1 Selected
+10-18-2022 18:34:17 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 246 - Question 2 Selected
+10-18-2022 18:34:19 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 250 - Question 3 Selected
+10-18-2022 18:34:21 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 254 - Question 4 selected
+10-18-2022 18:34:26 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 259 - Scroll Down TO Save
+10-18-2022 18:34:28 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 262 - Save Clicked
+10-18-2022 18:34:38 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 267 - Generate Letter Clicked
+10-18-2022 18:34:58 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 275 - Scroll Down TO Save
+10-18-2022 18:35:08 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 279 - Generate Letter Button Clicked
+10-18-2022 18:35:08 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 287 - APS letter generated generated
+10-18-2022 18:44:25 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 34 - Base url launched - http://192.168.1.210/HealthBuzzApp/internal
+10-18-2022 18:44:26 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 36 - <===== Login test started ====>
+10-18-2022 18:44:27 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 41 - Username Entered
+10-18-2022 18:44:27 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 44 - Password Entered
+10-18-2022 18:44:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 47 - Submit Button Clicked
+10-18-2022 18:44:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 52 - ====> Login Test Pass <====
+10-18-2022 18:44:40 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 82 - <==== REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST STARTED ====>
+10-18-2022 18:44:41 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 87 - Claim clicked
+10-18-2022 18:44:42 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 90 - Reimbursment Clicked
+10-18-2022 18:44:46 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 93 - DataCapture Clicked
+10-18-2022 18:44:59 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 101 - Add Manual Claim Clicked
+10-18-2022 18:45:08 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 111 - Clicked Modify to Enter Policy Number
+10-18-2022 18:45:08 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 114 - Policy Number Entered..
+10-18-2022 18:45:11 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 146 - Policy Selected..
+10-18-2022 18:45:25 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 203 - Go To Creation Form
+10-18-2022 18:45:26 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 206 - Treatment Location Entered
+10-18-2022 18:45:30 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 210 - Treatment Location Selected
+10-18-2022 18:45:30 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 213 - Doctor Name Entered
+10-18-2022 18:45:34 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 217 - Doctor Name Selected
+10-18-2022 18:45:34 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 220 - Services selected...
+10-18-2022 18:45:34 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 223 - Date of Admission Entered
+10-18-2022 18:45:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 226 - Admission Time Entered
+10-18-2022 18:45:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 229 - Date of Discharge Entered
+10-18-2022 18:45:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 232 - Ward type selected..
+10-18-2022 18:45:37 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 235 - Discharge Time Entered
+10-18-2022 18:45:37 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 238 - Contact Number Entered
+10-18-2022 18:45:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 241 - Email Adress Entered
+10-18-2022 18:45:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 244 - Symptom/complaint Entered
+10-18-2022 18:45:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 247 - Bill Currency Selected
+10-18-2022 18:45:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 250 - Submission Date Entered
+10-18-2022 18:45:47 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 256 - Go To ICD Description
+10-18-2022 18:45:51 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 270 - 1 ICD CODE ENTERED - K29.8
+10-18-2022 18:45:53 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 274 - 1 ICD CODE Selected - K29.8
+10-18-2022 18:45:53 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 277 - 1 ICD ADD BUTTON CLICKED
+10-18-2022 18:45:56 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 270 - 2 ICD CODE ENTERED - I84.0
+10-18-2022 18:45:59 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 274 - 2 ICD CODE Selected - I84.0
+10-18-2022 18:45:59 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 277 - 2 ICD ADD BUTTON CLICKED
+10-18-2022 18:46:02 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 270 - 3 ICD CODE ENTERED - K63.5
+10-18-2022 18:46:04 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 274 - 3 ICD CODE Selected - K63.5
+10-18-2022 18:46:04 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 277 - 3 ICD ADD BUTTON CLICKED
+10-18-2022 18:46:16 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 310 - ICD Table Displayed.
+10-18-2022 18:46:16 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 322 - Go To Surgery Description
+10-18-2022 18:46:16 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 357 - Surgery Code Entered
+10-18-2022 18:46:18 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 361 - Surgery Code Selected
+10-18-2022 18:46:18 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 364 - Surgery Amount Entered
+10-18-2022 18:46:19 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 367 - Incision Selected
+10-18-2022 18:46:21 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 371 - Surgery Button Add Clicked
+10-18-2022 18:46:24 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 378 - Surgery Table Displayed.
+10-18-2022 18:46:33 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 390 - Go To Settlement Method
+10-18-2022 18:46:33 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 393 - Settlement Type Selected
+10-18-2022 18:46:33 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 396 - Member Address Clicked
+10-18-2022 18:46:37 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 401 - GO TO DISPLAY BILL
+10-18-2022 18:46:42 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 482 - Clicked Input By Benefit Item
+10-18-2022 18:46:42 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 485 - Ok Clicked..
+10-18-2022 18:46:46 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 497 - 1 Bill charge date entered. - 2018/09/01
+10-18-2022 18:46:50 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 502 - 1 Benefit Item Selected - Miscellaneous Hospital Expenses (Confinement Benefits)
+10-18-2022 18:46:53 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 507 - 1 No. of Claim Days Entered - 1
+10-18-2022 18:46:55 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 512 - 1 No. of Paid Days Entered - 1
+10-18-2022 18:46:57 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 517 - 1 Bill Amount Entered - 75
+10-18-2022 18:46:59 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 521 - 1 Add Bill Clicked
+10-18-2022 18:47:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 497 - 2 Bill charge date entered. - 2018/09/01
+10-18-2022 18:47:07 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 502 - 2 Benefit Item Selected - Daily Room & Board (Confinement Benefits)
+10-18-2022 18:47:10 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 507 - 2 No. of Claim Days Entered - 44
+10-18-2022 18:47:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 512 - 2 No. of Paid Days Entered - 44
+10-18-2022 18:47:14 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 517 - 2 Bill Amount Entered - 4540
+10-18-2022 18:47:16 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 521 - 2 Add Bill Clicked
+10-18-2022 18:47:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 607 - Save Clicked
+10-18-2022 18:47:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 610 - Alert Message: Success! Claim Number :-1013494 generated successfully.
+10-18-2022 18:47:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 618 - <=== Start to search save claim in data capture page ====>
+10-18-2022 18:47:39 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 623 - Claim clicked
+10-18-2022 18:47:41 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 626 - Reimbursment Clicked
+10-18-2022 18:47:44 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 629 - DataCapture Clicked
+10-18-2022 18:47:54 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 637 - Enter claim to search in data Capture
+10-18-2022 18:47:54 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 640 - Clicked on search Button
+10-18-2022 18:47:54 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 647 - Search claim verified on data caputure page.
+10-18-2022 18:48:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 660 - Click on Proceed
+10-18-2022 18:48:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 662 - ===> Process complete to search save claim in data capture page <====
+10-18-2022 18:48:10 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 713 - AssessmentEnquiry Clicked
+10-18-2022 18:48:19 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 720 - Click on Go Button
+10-18-2022 18:48:28 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 729 - Go To Assessment Page Details
+10-18-2022 18:48:28 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 732 - Claim Number Selected
+10-18-2022 18:48:29 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 735 - Descript Entered in Assessment
+10-18-2022 18:48:29 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 738 - Assessment Saved
+10-18-2022 18:48:53 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 746 - Assessment Pop up Closed.
+10-18-2022 18:48:53 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 749 - click on Show Hide Pop up Button
+10-18-2022 18:49:07 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 761 - Auto-Audjudicate Clicked
+10-18-2022 18:49:20 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 772 - Disabilities when occurring during the first year from the Effective Date
+10-18-2022 18:49:21 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 774 - Confirm Clicked
+10-18-2022 18:49:26 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 779 - Alert Accepted
+10-18-2022 18:49:35 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 784 - Alert Message: Claim # 1013494 pass to Wing Deng
+10-18-2022 18:49:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 790 - Second Alert Accepted
+10-18-2022 18:49:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 822 - ====> REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST PASSED <====
+10-18-2022 18:49:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureSearchClaim] - INFO  - 850 - Screenshot already capture for data capture claim search
+10-18-2022 18:49:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 859 - <==== Logout Test Started ====>
+10-18-2022 18:49:47 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 863 - Profile Icon Clicked for logout
+10-18-2022 18:49:47 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 866 - Log Out Clicked
+10-18-2022 18:49:50 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 872 - ====> LogOut Test Pass <====
+10-18-2022 18:50:01 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 37 - Base url launched
+10-18-2022 18:50:01 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 39 - <===== Login test started ====>
+10-18-2022 18:50:01 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 44 - Username Entered
+10-18-2022 18:50:01 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 47 - Password Entered
+10-18-2022 18:50:03 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 50 - Submit Button Clicked
+10-18-2022 18:50:03 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 55 - ====> Login Test Pass <====
+10-18-2022 18:50:07 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 85 - <==== REIMBURSMENT OVERVIEW THROUGH MANUAL TEST STARTED ====>
+10-18-2022 18:50:08 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 90 - Claim clicked
+10-18-2022 18:50:09 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 93 - Reimbursment Clicked
+10-18-2022 18:50:11 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 96 - Reimbursment Overview Clicked
+10-18-2022 18:50:21 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 114 - Claim No Entered
+10-18-2022 18:50:22 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 125 - Case Picked by selected
+10-18-2022 18:50:23 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 129 - claim search
+10-18-2022 18:50:32 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 140 - Reassigned Clicked
+10-18-2022 18:50:33 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 146 - User Name Entered for Reassigned
+10-18-2022 18:50:33 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 149 - Search Clicked for Assigned User
+10-18-2022 18:50:33 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 152 - Select Clicked and User Assigned for the claim
+10-18-2022 18:50:47 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 163 - Proceed Clicked
+10-18-2022 18:51:25 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 187 - APS Generate Letter Button Clicked
+10-18-2022 18:51:33 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 199 - Doctor Name Entered
+10-18-2022 18:51:36 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 203 - Doctor Name Selected
+10-18-2022 18:51:36 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 206 - Go Clicked
+10-18-2022 18:51:43 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 219 - Title Entered
+10-18-2022 18:51:43 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 222 - Payee Entered
+10-18-2022 18:51:44 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 225 - Attention Name Entered
+10-18-2022 18:51:44 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 228 - Address 1 Entered
+10-18-2022 18:51:44 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 231 - Address 2 Entered
+10-18-2022 18:51:44 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 234 - Address 3 Entered
+10-18-2022 18:51:45 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 237 - Address 4 Entered
+10-18-2022 18:51:45 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 240 - Reminder Period Entered
+10-18-2022 18:51:47 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 244 - Question 1 Selected
+10-18-2022 18:51:49 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 248 - Question 2 Selected
+10-18-2022 18:51:51 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 252 - Question 3 Selected
+10-18-2022 18:51:53 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 256 - Question 4 selected
+10-18-2022 18:51:58 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 261 - Scroll Down TO Save
+10-18-2022 18:51:59 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 264 - Save Clicked
+10-18-2022 18:52:09 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 269 - Generate Letter Clicked
+10-18-2022 18:52:12 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 277 - Scroll Down TO Save
+10-18-2022 18:52:17 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 281 - Generate Letter Button Clicked
+10-18-2022 18:52:17 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 289 - APS letter generated generated
+10-18-2022 18:52:37 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 301 - ====> REIMBURSMENT OVERVIEW roManualAPSGeneration THROUGH MANUAL TEST PASSED <====
+10-18-2022 18:52:47 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 366 - Pending Notification Clicked
+10-18-2022 18:53:01 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 375 - Search Remarks Clicked
+10-18-2022 18:53:10 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 381 - Remarks Code Entered
+10-18-2022 18:53:11 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 385 - Search Clicked
+10-18-2022 18:53:14 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 389 - Go Clicked
+10-18-2022 18:53:18 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 393 - Save Clicked
+10-18-2022 18:53:32 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 409 - Auto Audjudicate Clicked
+10-18-2022 18:53:45 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 418 - Go TO Claim Status
+10-18-2022 18:53:45 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 421 - Claim Status Selected
+10-18-2022 18:53:49 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 427 - Update Status Clicked
+10-18-2022 18:53:53 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 431 - Pending Alert Accepted
+10-18-2022 18:54:26 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 450 - ====> REIMBURSMENT OVERVIEW THROUGH MANUAL TEST PASSED <====
+10-18-2022 18:54:27 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 458 - Total Claim Amount Fetched from site:- 4615
+10-18-2022 18:54:28 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 482 - Total Approved Amount Fetched from site(claim view) is not equal as expected :- 11884.25
+10-18-2022 18:54:28 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPreviewBenefitItem] - INFO  - 513 - <==== REIMBURSMENT OVERVIEW PREVIEW BENEFIT ITEM THROUGH MANUAL TEST STARTED ====>
+10-18-2022 18:54:28 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPreviewBenefitItem] - INFO  - 516 - Preview Benefit Item Clicked
+10-18-2022 18:55:06 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPreviewBenefitItem] - INFO  - 531 - ====> REIMBURSMENT OVERVIEW PREVIEW BENEFIT ITEM THROUGH MANUAL TEST PASSED <====
+10-18-2022 18:55:06 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualviewLetter] - INFO  - 565 - <==== REIMBURSMENT OVERVIEW VIEW LETTER THROUGH MANUAL TEST STARTED ====>
+10-18-2022 18:55:06 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualviewLetter] - INFO  - 568 - View Letter Clicked
+10-18-2022 18:55:44 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualviewLetter] - INFO  - 583 - ====> REIMBURSMENT OVERVIEW THROUGH MANUAL TEST PASSED <====
+10-18-2022 18:55:44 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 614 - <==== REIMBURSMENT OVERVIEW GENERATE LETTER THROUGH MANUAL TEST STARTED ====>
+10-18-2022 18:55:44 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 617 - Generate Letter Button Clicked
+10-18-2022 18:56:06 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 647 - Letter Content:- A payment for HKD 11884.25 representing your settlement is enclosed.
+10-18-2022 18:56:06 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 653 - Scroll Down to Generate Letter Button
+10-18-2022 18:56:12 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 657 - Generate Letter Button Clicked
+10-18-2022 18:56:42 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 666 - Settlement letter generated
+10-18-2022 18:56:42 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 677 - ====> REIMBURSMENT OVERVIEW GENERATE LETTER THROUGH MANUAL TEST PASSED <====
+10-18-2022 18:56:42 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPendinNotification] - INFO  - 762 - <==== REIMBURSMENT OVERVIEW roManualPendinNotification THROUGH MANUAL TEST STARTED ====>
+10-18-2022 18:56:42 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPendinNotification] - INFO  - 765 - Pending Notification Button Clicked
+10-18-2022 18:56:59 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPendinNotification] - INFO  - 820 - ====> REIMBURSMENT OVERVIEW roManualPendinNotification THROUGH MANUAL TEST PASSED <====
+10-18-2022 18:57:03 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 861 - <==== REIMBURSMENT OVERVIEW roManualApprovedClaimSearch THROUGH MANUAL TEST STARTED ====>
+10-18-2022 18:57:03 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 872 - Approved Status Selected
+10-18-2022 18:57:04 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 882 - Claim No Entered
+10-18-2022 18:57:04 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 893 - Search Button Clicked
+10-18-2022 18:57:04 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 900 - Claim Number Verified
+10-18-2022 18:57:14 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 911 - ====> REIMBURSMENT OVERVIEW roManualApprovedClaimSearch THROUGH MANUAL TEST PASSED <====
+10-18-2022 18:57:14 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [logoutLevel2Test] - INFO  - 935 - <==== Logout Test Started ====>
+10-18-2022 18:57:24 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [logoutLevel2Test] - INFO  - 939 - Profile Icon Clicked for logout
+10-18-2022 18:57:24 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [logoutLevel2Test] - INFO  - 942 - Log Out Clicked
+10-18-2022 18:57:27 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [logoutLevel2Test] - INFO  - 948 - ====> LogOut Test Pass <====
+10-19-2022 12:32:54 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 34 - Base url launched - http://192.168.1.210/HealthBuzzApp/internal
+10-19-2022 12:32:54 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 36 - <===== Login test started ====>
+10-19-2022 12:32:55 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 41 - Username Entered
+10-19-2022 12:32:56 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 44 - Password Entered
+10-19-2022 12:32:58 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 47 - Submit Button Clicked
+10-19-2022 12:32:58 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 52 - ====> Login Test Pass <====
+10-19-2022 12:35:34 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 34 - Base url launched - http://192.168.1.210/HealthBuzzApp/internal
+10-19-2022 12:35:34 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 36 - <===== Login test started ====>
+10-19-2022 12:35:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 41 - Username Entered
+10-19-2022 12:35:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 44 - Password Entered
+10-19-2022 12:35:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 47 - Submit Button Clicked
+10-19-2022 12:35:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 52 - ====> Login Test Pass <====
+10-19-2022 12:35:42 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 82 - <==== REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST STARTED ====>
+10-19-2022 12:35:43 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 87 - Claim clicked
+10-19-2022 12:35:44 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 90 - Reimbursment Clicked
+10-19-2022 12:35:49 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 93 - DataCapture Clicked
+10-19-2022 12:36:02 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 101 - Add Manual Claim Clicked
+10-19-2022 12:36:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 111 - Clicked Modify to Enter Policy Number
+10-19-2022 12:36:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 114 - Policy Number Entered..
+10-19-2022 12:36:15 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 146 - Policy Selected..
+10-19-2022 12:36:32 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 203 - Go To Creation Form
+10-19-2022 12:36:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 831 - ====> REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST FAILED <====
+10-19-2022 12:37:45 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 34 - Base url launched - http://192.168.1.210/HealthBuzzApp/internal
+10-19-2022 12:37:45 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 36 - <===== Login test started ====>
+10-19-2022 12:37:46 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 41 - Username Entered
+10-19-2022 12:37:46 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 44 - Password Entered
+10-19-2022 12:37:47 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 47 - Submit Button Clicked
+10-19-2022 12:37:47 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 52 - ====> Login Test Pass <====
+10-19-2022 12:37:51 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 82 - <==== REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST STARTED ====>
+10-19-2022 12:37:52 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 87 - Claim clicked
+10-19-2022 12:37:54 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 90 - Reimbursment Clicked
+10-19-2022 12:37:57 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 93 - DataCapture Clicked
+10-19-2022 12:38:09 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 101 - Add Manual Claim Clicked
+10-19-2022 12:38:19 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 111 - Clicked Modify to Enter Policy Number
+10-19-2022 12:38:19 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 114 - Policy Number Entered..
+10-19-2022 12:38:22 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 146 - Policy Selected..
+10-19-2022 12:38:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 203 - Go To Creation Form
+10-19-2022 12:38:39 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 831 - ====> REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST FAILED <====
+10-19-2022 12:46:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 34 - Base url launched - http://192.168.1.210/HealthBuzzApp/internal
+10-19-2022 12:46:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 36 - <===== Login test started ====>
+10-19-2022 12:46:01 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 41 - Username Entered
+10-19-2022 12:46:01 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 44 - Password Entered
+10-19-2022 12:46:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 47 - Submit Button Clicked
+10-19-2022 12:46:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 52 - ====> Login Test Pass <====
+10-19-2022 12:46:06 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 82 - <==== REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST STARTED ====>
+10-19-2022 12:46:07 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 87 - Claim clicked
+10-19-2022 12:46:08 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 90 - Reimbursment Clicked
+10-19-2022 12:46:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 93 - DataCapture Clicked
+10-19-2022 12:46:24 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 101 - Add Manual Claim Clicked
+10-19-2022 12:46:34 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 111 - Clicked Modify to Enter Policy Number
+10-19-2022 12:46:34 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 114 - Policy Number Entered..
+10-19-2022 12:46:37 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 146 - Policy Selected..
+10-19-2022 12:46:51 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 203 - Go To Creation Form
+10-19-2022 12:46:52 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 206 - Treatment Location Entered
+10-19-2022 12:46:56 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 210 - Treatment Location Selected
+10-19-2022 12:46:56 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 213 - Doctor Name Entered
+10-19-2022 12:46:59 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 217 - Doctor Name Selected
+10-19-2022 12:47:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 220 - Services selected...
+10-19-2022 12:47:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 223 - Date of Admission Entered
+10-19-2022 12:47:01 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 226 - Admission Time Entered
+10-19-2022 12:47:01 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 229 - Date of Discharge Entered
+10-19-2022 12:47:02 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 232 - Ward type selected..
+10-19-2022 12:47:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 235 - Discharge Time Entered
+10-19-2022 12:47:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 238 - Contact Number Entered
+10-19-2022 12:47:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 241 - Email Adress Entered
+10-19-2022 12:47:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 244 - Symptom/complaint Entered
+10-19-2022 12:47:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 247 - Bill Currency Selected
+10-19-2022 12:47:04 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 250 - Submission Date Entered
+10-19-2022 12:47:13 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 256 - Go To ICD Description
+10-19-2022 12:47:13 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 284 - ICD CODE ENTERED
+10-19-2022 12:47:17 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 288 - ICD CODE Selected
+10-19-2022 12:47:17 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 299 - ICD ADD BUTTON CLICKED
+10-19-2022 12:47:28 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 310 - ICD Table Displayed.
+10-19-2022 12:47:28 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 322 - Go To Surgery Description
+10-19-2022 12:47:28 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 357 - Surgery Code Entered
+10-19-2022 12:47:30 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 361 - Surgery Code Selected
+10-19-2022 12:47:31 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 364 - Surgery Amount Entered
+10-19-2022 12:47:31 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 367 - Incision Selected
+10-19-2022 12:47:33 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 371 - Surgery Button Add Clicked
+10-19-2022 12:47:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 378 - Surgery Table Displayed.
+10-19-2022 12:47:45 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 390 - Go To Settlement Method
+10-19-2022 12:47:45 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 393 - Settlement Type Selected
+10-19-2022 12:47:46 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 396 - Member Address Clicked
+10-19-2022 12:47:49 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 401 - GO TO DISPLAY BILL
+10-19-2022 12:47:54 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 482 - Clicked Input By Benefit Item
+10-19-2022 12:47:54 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 485 - Ok Clicked..
+10-19-2022 12:47:58 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 497 - 1 Bill charge date entered. - 2018/09/19
+10-19-2022 12:48:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 502 - 1 Benefit Item Selected - Miscellaneous Hospital Expenses (Confinement Benefits)
+10-19-2022 12:48:05 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 507 - 1 No. of Claim Days Entered - 1
+10-19-2022 12:48:07 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 512 - 1 No. of Paid Days Entered - 1
+10-19-2022 12:48:09 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 517 - 1 Bill Amount Entered - 75
+10-19-2022 12:48:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 521 - 1 Add Bill Clicked
+10-19-2022 12:48:15 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 497 - 2 Bill charge date entered. - 2018/09/19
+10-19-2022 12:48:20 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 502 - 2 Benefit Item Selected - Daily Room & Board (Confinement Benefits)
+10-19-2022 12:48:22 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 507 - 2 No. of Claim Days Entered - 44
+10-19-2022 12:48:24 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 512 - 2 No. of Paid Days Entered - 44
+10-19-2022 12:48:26 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 517 - 2 Bill Amount Entered - 4540
+10-19-2022 12:48:29 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 521 - 2 Add Bill Clicked
+10-19-2022 12:48:52 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 607 - Save Clicked
+10-19-2022 12:48:53 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 610 - Alert Message: Success! Claim Number :-1013497 generated successfully.
+10-19-2022 12:49:02 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 713 - AssessmentEnquiry Clicked
+10-19-2022 12:49:14 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 831 - ====> REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST FAILED <====
+10-19-2022 12:56:01 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 34 - Base url launched - http://192.168.1.210/HealthBuzzApp/internal
+10-19-2022 12:56:01 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 36 - <===== Login test started ====>
+10-19-2022 12:56:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 41 - Username Entered
+10-19-2022 12:56:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 44 - Password Entered
+10-19-2022 12:56:07 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 47 - Submit Button Clicked
+10-19-2022 12:56:07 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 52 - ====> Login Test Pass <====
+10-19-2022 12:56:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 82 - <==== REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST STARTED ====>
+10-19-2022 12:56:13 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 87 - Claim clicked
+10-19-2022 12:56:14 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 90 - Reimbursment Clicked
+10-19-2022 12:56:18 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 93 - DataCapture Clicked
+10-19-2022 12:56:30 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 101 - Add Manual Claim Clicked
+10-19-2022 12:56:39 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 111 - Clicked Modify to Enter Policy Number
+10-19-2022 12:56:40 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 114 - Policy Number Entered..
+10-19-2022 12:56:43 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 146 - Policy Selected..
+10-19-2022 12:56:59 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 203 - Go To Creation Form
+10-19-2022 12:57:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 206 - Treatment Location Entered
+10-19-2022 12:57:04 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 210 - Treatment Location Selected
+10-19-2022 12:57:05 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 213 - Doctor Name Entered
+10-19-2022 12:57:08 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 217 - Doctor Name Selected
+10-19-2022 12:57:08 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 220 - Services selected...
+10-19-2022 12:57:08 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 223 - Date of Admission Entered
+10-19-2022 12:57:10 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 226 - Admission Time Entered
+10-19-2022 12:57:10 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 229 - Date of Discharge Entered
+10-19-2022 12:57:10 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 232 - Ward type selected..
+10-19-2022 12:57:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 235 - Discharge Time Entered
+10-19-2022 12:57:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 238 - Contact Number Entered
+10-19-2022 12:57:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 241 - Email Adress Entered
+10-19-2022 12:57:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 244 - Symptom/complaint Entered
+10-19-2022 12:57:13 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 247 - Bill Currency Selected
+10-19-2022 12:57:13 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 250 - Submission Date Entered
+10-19-2022 12:57:22 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 256 - Go To ICD Description
+10-19-2022 12:57:23 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 284 - ICD CODE ENTERED
+10-19-2022 12:57:26 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 288 - ICD CODE Selected
+10-19-2022 12:57:26 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 299 - ICD ADD BUTTON CLICKED
+10-19-2022 12:57:37 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 310 - ICD Table Displayed.
+10-19-2022 12:57:37 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 322 - Go To Surgery Description
+10-19-2022 12:57:37 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 357 - Surgery Code Entered
+10-19-2022 12:57:40 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 361 - Surgery Code Selected
+10-19-2022 12:57:40 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 364 - Surgery Amount Entered
+10-19-2022 12:57:40 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 367 - Incision Selected
+10-19-2022 12:57:42 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 371 - Surgery Button Add Clicked
+10-19-2022 12:57:45 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 378 - Surgery Table Displayed.
+10-19-2022 12:57:55 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 390 - Go To Settlement Method
+10-19-2022 12:57:55 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 393 - Settlement Type Selected
+10-19-2022 12:57:55 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 396 - Member Address Clicked
+10-19-2022 12:57:58 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 401 - GO TO DISPLAY BILL
+10-19-2022 12:58:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 482 - Clicked Input By Benefit Item
+10-19-2022 12:58:04 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 485 - Ok Clicked..
+10-19-2022 12:58:08 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 497 - 1 Bill charge date entered. - 2018/09/19
+10-19-2022 12:58:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 502 - 1 Benefit Item Selected - Miscellaneous Hospital Expenses (Confinement Benefits)
+10-19-2022 12:58:14 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 507 - 1 No. of Claim Days Entered - 1
+10-19-2022 12:58:16 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 512 - 1 No. of Paid Days Entered - 1
+10-19-2022 12:58:19 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 517 - 1 Bill Amount Entered - 75
+10-19-2022 12:58:21 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 521 - 1 Add Bill Clicked
+10-19-2022 12:58:25 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 497 - 2 Bill charge date entered. - 2018/09/19
+10-19-2022 12:58:29 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 502 - 2 Benefit Item Selected - Daily Room & Board (Confinement Benefits)
+10-19-2022 12:58:31 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 507 - 2 No. of Claim Days Entered - 44
+10-19-2022 12:58:33 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 512 - 2 No. of Paid Days Entered - 44
+10-19-2022 12:58:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 517 - 2 Bill Amount Entered - 4540
+10-19-2022 12:58:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 521 - 2 Add Bill Clicked
+10-19-2022 12:58:58 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 607 - Save Clicked
+10-19-2022 12:59:02 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 610 - Alert Message: Success! Claim Number :-1013498 generated successfully.
+10-19-2022 12:59:11 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 713 - AssessmentEnquiry Clicked
+10-19-2022 12:59:50 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 721 - Click on Go Button
+10-19-2022 13:00:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 730 - Go To Assessment Page Details
+10-19-2022 13:01:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 832 - ====> REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST FAILED <====
+10-19-2022 14:21:04 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 34 - Base url launched - http://192.168.1.210/HealthBuzzApp/internal
+10-19-2022 14:21:04 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 36 - <===== Login test started ====>
+10-19-2022 14:21:05 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 41 - Username Entered
+10-19-2022 14:21:05 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 44 - Password Entered
+10-19-2022 14:21:08 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 47 - Submit Button Clicked
+10-19-2022 14:21:08 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 52 - ====> Login Test Pass <====
+10-19-2022 14:21:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 82 - <==== REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST STARTED ====>
+10-19-2022 14:21:13 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 87 - Claim clicked
+10-19-2022 14:21:14 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 90 - Reimbursment Clicked
+10-19-2022 14:21:17 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 93 - DataCapture Clicked
+10-19-2022 14:21:30 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 101 - Add Manual Claim Clicked
+10-19-2022 14:21:39 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 111 - Clicked Modify to Enter Policy Number
+10-19-2022 14:21:39 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 114 - Policy Number Entered..
+10-19-2022 14:21:43 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 146 - Policy Selected..
+10-19-2022 14:21:59 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 203 - Go To Creation Form
+10-19-2022 14:22:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 206 - Treatment Location Entered
+10-19-2022 14:22:04 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 210 - Treatment Location Selected
+10-19-2022 14:22:04 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 213 - Doctor Name Entered
+10-19-2022 14:22:07 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 217 - Doctor Name Selected
+10-19-2022 14:22:08 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 220 - Services selected...
+10-19-2022 14:22:08 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 223 - Date of Admission Entered
+10-19-2022 14:22:10 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 226 - Admission Time Entered
+10-19-2022 14:22:10 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 229 - Date of Discharge Entered
+10-19-2022 14:22:10 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 232 - Ward type selected..
+10-19-2022 14:22:11 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 235 - Discharge Time Entered
+10-19-2022 14:22:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 238 - Contact Number Entered
+10-19-2022 14:22:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 241 - Email Adress Entered
+10-19-2022 14:22:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 244 - Symptom/complaint Entered
+10-19-2022 14:22:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 247 - Bill Currency Selected
+10-19-2022 14:22:13 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 250 - Submission Date Entered
+10-19-2022 14:22:22 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 256 - Go To ICD Description
+10-19-2022 14:22:22 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 284 - ICD CODE ENTERED
+10-19-2022 14:22:25 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 288 - ICD CODE Selected
+10-19-2022 14:22:26 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 299 - ICD ADD BUTTON CLICKED
+10-19-2022 14:22:37 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 310 - ICD Table Displayed.
+10-19-2022 14:22:37 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 322 - Go To Surgery Description
+10-19-2022 14:22:37 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 357 - Surgery Code Entered
+10-19-2022 14:22:39 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 361 - Surgery Code Selected
+10-19-2022 14:22:40 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 364 - Surgery Amount Entered
+10-19-2022 14:22:40 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 367 - Incision Selected
+10-19-2022 14:22:42 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 371 - Surgery Button Add Clicked
+10-19-2022 14:22:45 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 378 - Surgery Table Displayed.
+10-19-2022 14:22:54 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 390 - Go To Settlement Method
+10-19-2022 14:22:54 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 393 - Settlement Type Selected
+10-19-2022 14:22:55 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 396 - Member Address Clicked
+10-19-2022 14:22:58 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 401 - GO TO DISPLAY BILL
+10-19-2022 14:23:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 482 - Clicked Input By Benefit Item
+10-19-2022 14:23:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 485 - Ok Clicked..
+10-19-2022 14:23:07 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 497 - 1 Bill charge date entered. - 2018/09/19
+10-19-2022 14:23:11 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 502 - 1 Benefit Item Selected - Miscellaneous Hospital Expenses (Confinement Benefits)
+10-19-2022 14:23:14 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 507 - 1 No. of Claim Days Entered - 1
+10-19-2022 14:23:16 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 512 - 1 No. of Paid Days Entered - 1
+10-19-2022 14:23:18 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 517 - 1 Bill Amount Entered - 75
+10-19-2022 14:23:20 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 521 - 1 Add Bill Clicked
+10-19-2022 14:23:24 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 497 - 2 Bill charge date entered. - 2018/09/19
+10-19-2022 14:23:28 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 502 - 2 Benefit Item Selected - Daily Room & Board (Confinement Benefits)
+10-19-2022 14:23:31 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 507 - 2 No. of Claim Days Entered - 44
+10-19-2022 14:23:33 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 512 - 2 No. of Paid Days Entered - 44
+10-19-2022 14:23:35 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 517 - 2 Bill Amount Entered - 4540
+10-19-2022 14:23:37 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 521 - 2 Add Bill Clicked
+10-19-2022 14:23:59 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 607 - Save Clicked
+10-19-2022 14:24:02 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 610 - Alert Message: Success! Claim Number :-1013499 generated successfully.
+10-19-2022 14:24:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 713 - AssessmentEnquiry Clicked
+10-19-2022 14:24:51 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 721 - Click on Go Button
+10-19-2022 14:25:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 730 - Go To Assessment Page Details
+10-19-2022 14:25:01 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 734 - Claim Number Selected
+10-19-2022 14:25:01 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 737 - Descript Entered in Assessment
+10-19-2022 14:25:01 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 740 - Assessment Saved
+10-19-2022 14:25:26 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 748 - Assessment Pop up Closed.
+10-19-2022 14:25:26 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 751 - click on Show Hide Pop up Button
+10-19-2022 14:25:42 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 763 - Auto-Audjudicate Clicked
+10-19-2022 14:25:56 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 774 - No Rule Found
+10-19-2022 14:25:56 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 776 - Confirm Clicked
+10-19-2022 14:26:01 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 781 - Alert Accepted
+10-19-2022 14:26:10 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 786 - Alert Message: Claim # 1013499 pass to Ajay  Maurya
+10-19-2022 14:26:11 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 792 - Second Alert Accepted
+10-19-2022 14:26:11 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 824 - ====> REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST PASSED <====
+10-19-2022 14:26:11 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureSearchClaim] - INFO  - 852 - Screenshot already capture for data capture claim search
+10-19-2022 14:26:11 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 861 - <==== Logout Test Started ====>
+10-19-2022 14:42:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 34 - Base url launched - http://192.168.1.210/HealthBuzzApp/internal
+10-19-2022 14:42:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 36 - <===== Login test started ====>
+10-19-2022 14:42:04 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 41 - Username Entered
+10-19-2022 14:42:04 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 44 - Password Entered
+10-19-2022 14:42:10 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 47 - Submit Button Clicked
+10-19-2022 14:42:10 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 52 - ====> Login Test Pass <====
+10-19-2022 14:42:13 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 82 - <==== REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST STARTED ====>
+10-19-2022 14:42:14 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 87 - Claim clicked
+10-19-2022 14:42:15 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 90 - Reimbursment Clicked
+10-19-2022 14:42:30 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 93 - DataCapture Clicked
+10-19-2022 14:42:46 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 101 - Add Manual Claim Clicked
+10-19-2022 14:42:55 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 111 - Clicked Modify to Enter Policy Number
+10-19-2022 14:42:55 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 114 - Policy Number Entered..
+10-19-2022 14:42:58 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 146 - Policy Selected..
+10-19-2022 14:43:14 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 203 - Go To Creation Form
+10-19-2022 14:43:15 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 206 - Treatment Location Entered
+10-19-2022 14:43:20 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 210 - Treatment Location Selected
+10-19-2022 14:43:21 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 213 - Doctor Name Entered
+10-19-2022 14:43:24 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 217 - Doctor Name Selected
+10-19-2022 14:43:24 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 220 - Services selected...
+10-19-2022 14:43:25 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 223 - Date of Admission Entered
+10-19-2022 14:43:27 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 226 - Admission Time Entered
+10-19-2022 14:43:27 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 229 - Date of Discharge Entered
+10-19-2022 14:43:27 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 232 - Ward type selected..
+10-19-2022 14:43:28 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 235 - Discharge Time Entered
+10-19-2022 14:43:29 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 238 - Contact Number Entered
+10-19-2022 14:43:29 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 241 - Email Adress Entered
+10-19-2022 14:43:29 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 244 - Symptom/complaint Entered
+10-19-2022 14:43:29 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 247 - Bill Currency Selected
+10-19-2022 14:43:30 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 250 - Submission Date Entered
+10-19-2022 14:43:39 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 256 - Go To ICD Description
+10-19-2022 14:43:39 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 284 - ICD CODE ENTERED
+10-19-2022 14:43:42 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 288 - ICD CODE Selected
+10-19-2022 14:43:43 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 299 - ICD ADD BUTTON CLICKED
+10-19-2022 14:43:54 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 310 - ICD Table Displayed.
+10-19-2022 14:43:54 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 322 - Go To Surgery Description
+10-19-2022 14:43:54 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 357 - Surgery Code Entered
+10-19-2022 14:43:56 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 361 - Surgery Code Selected
+10-19-2022 14:43:56 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 364 - Surgery Amount Entered
+10-19-2022 14:43:57 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 367 - Incision Selected
+10-19-2022 14:43:59 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 371 - Surgery Button Add Clicked
+10-19-2022 14:44:02 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 378 - Surgery Table Displayed.
+10-19-2022 14:44:11 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 390 - Go To Settlement Method
+10-19-2022 14:44:11 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 393 - Settlement Type Selected
+10-19-2022 14:44:11 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 396 - Member Address Clicked
+10-19-2022 14:44:14 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 401 - GO TO DISPLAY BILL
+10-19-2022 14:44:20 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 482 - Clicked Input By Benefit Item
+10-19-2022 14:44:20 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 485 - Ok Clicked..
+10-19-2022 14:44:24 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 497 - 1 Bill charge date entered. - 2018/09/19
+10-19-2022 14:44:28 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 502 - 1 Benefit Item Selected - Miscellaneous Hospital Expenses (Confinement Benefits)
+10-19-2022 14:44:30 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 507 - 1 No. of Claim Days Entered - 1
+10-19-2022 14:44:33 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 512 - 1 No. of Paid Days Entered - 1
+10-19-2022 14:44:35 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 517 - 1 Bill Amount Entered - 75
+10-19-2022 14:44:37 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 521 - 1 Add Bill Clicked
+10-19-2022 14:44:41 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 497 - 2 Bill charge date entered. - 2018/09/19
+10-19-2022 14:44:45 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 502 - 2 Benefit Item Selected - Daily Room & Board (Confinement Benefits)
+10-19-2022 14:44:48 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 507 - 2 No. of Claim Days Entered - 44
+10-19-2022 14:44:50 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 512 - 2 No. of Paid Days Entered - 44
+10-19-2022 14:44:52 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 517 - 2 Bill Amount Entered - 4540
+10-19-2022 14:44:54 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 521 - 2 Add Bill Clicked
+10-19-2022 14:45:09 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 607 - Save Clicked
+10-19-2022 14:45:29 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 610 - Alert Message: Success! Claim Number :-1013500 generated successfully.
+10-19-2022 14:45:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 713 - AssessmentEnquiry Clicked
+10-19-2022 14:46:17 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 721 - Click on Go Button
+10-19-2022 14:46:26 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 730 - Go To Assessment Page Details
+10-19-2022 14:46:27 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 734 - Claim Number Selected
+10-19-2022 14:46:27 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 737 - Descript Entered in Assessment
+10-19-2022 14:46:28 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 740 - Assessment Saved
+10-19-2022 14:46:52 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 748 - Assessment Pop up Closed.
+10-19-2022 14:46:52 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 751 - click on Show Hide Pop up Button
+10-19-2022 14:47:14 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 763 - Auto-Audjudicate Clicked
+10-19-2022 14:47:29 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 774 - No Rule Found
+10-19-2022 14:47:29 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 776 - Confirm Clicked
+10-19-2022 14:47:34 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 781 - Alert Accepted
+10-19-2022 14:47:43 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 786 - Alert Message: Claim # 1013500 pass to Wing Deng
+10-19-2022 14:47:44 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 792 - Second Alert Accepted
+10-19-2022 14:47:44 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 824 - ====> REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST PASSED <====
+10-19-2022 14:47:44 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureSearchClaim] - INFO  - 852 - Screenshot already capture for data capture claim search
+10-19-2022 14:47:45 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 861 - <==== Logout Test Started ====>
+10-19-2022 14:47:55 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 865 - Profile Icon Clicked for logout
+10-19-2022 14:47:55 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 868 - Log Out Clicked
+10-19-2022 14:47:58 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 874 - ====> LogOut Test Pass <====
+10-19-2022 14:48:13 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 37 - Base url launched
+10-19-2022 14:48:13 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 39 - <===== Login test started ====>
+10-19-2022 14:48:14 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 44 - Username Entered
+10-19-2022 14:48:14 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 47 - Password Entered
+10-19-2022 14:48:16 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 50 - Submit Button Clicked
+10-19-2022 14:48:16 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 55 - ====> Login Test Pass <====
+10-19-2022 14:48:19 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 85 - <==== REIMBURSMENT OVERVIEW THROUGH MANUAL TEST STARTED ====>
+10-19-2022 14:48:20 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 90 - Claim clicked
+10-19-2022 14:48:22 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 93 - Reimbursment Clicked
+10-19-2022 14:48:28 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 96 - Reimbursment Overview Clicked
+10-19-2022 14:48:37 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 114 - Claim No Entered
+10-19-2022 14:48:39 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 125 - Case Picked by selected
+10-19-2022 14:48:39 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 129 - claim search
+10-19-2022 14:48:48 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 140 - Reassigned Clicked
+10-19-2022 14:48:49 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 146 - User Name Entered for Reassigned
+10-19-2022 14:48:49 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 149 - Search Clicked for Assigned User
+10-19-2022 14:48:50 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 152 - Select Clicked and User Assigned for the claim
+10-19-2022 14:49:04 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 163 - Proceed Clicked
+10-19-2022 14:49:42 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 187 - APS Generate Letter Button Clicked
+10-19-2022 14:49:50 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 199 - Doctor Name Entered
+10-19-2022 14:49:54 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 203 - Doctor Name Selected
+10-19-2022 14:49:54 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 206 - Go Clicked
+10-19-2022 14:50:01 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 219 - Title Entered
+10-19-2022 14:50:01 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 222 - Payee Entered
+10-19-2022 14:50:01 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 225 - Attention Name Entered
+10-19-2022 14:50:02 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 228 - Address 1 Entered
+10-19-2022 14:50:02 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 231 - Address 2 Entered
+10-19-2022 14:50:02 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 234 - Address 3 Entered
+10-19-2022 14:50:02 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 237 - Address 4 Entered
+10-19-2022 14:50:03 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 240 - Reminder Period Entered
+10-19-2022 14:50:05 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 244 - Question 1 Selected
+10-19-2022 14:50:07 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 248 - Question 2 Selected
+10-19-2022 14:50:09 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 252 - Question 3 Selected
+10-19-2022 14:50:11 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 256 - Question 4 selected
+10-19-2022 14:50:16 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 261 - Scroll Down TO Save
+10-19-2022 14:50:18 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 264 - Save Clicked
+10-19-2022 14:50:28 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 269 - Generate Letter Clicked
+10-19-2022 14:50:40 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 277 - Scroll Down TO Save
+10-19-2022 14:50:48 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 281 - Generate Letter Button Clicked
+10-19-2022 14:50:49 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 289 - APS letter generated generated
+10-19-2022 14:51:09 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 301 - ====> REIMBURSMENT OVERVIEW roManualAPSGeneration THROUGH MANUAL TEST PASSED <====
+10-19-2022 14:51:18 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 366 - Pending Notification Clicked
+10-19-2022 14:51:32 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 375 - Search Remarks Clicked
+10-19-2022 14:51:42 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 381 - Remarks Code Entered
+10-19-2022 14:51:43 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 385 - Search Clicked
+10-19-2022 14:51:46 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 389 - Go Clicked
+10-19-2022 14:51:50 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 393 - Save Clicked
+10-19-2022 14:52:04 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 409 - Auto Audjudicate Clicked
+10-19-2022 14:52:19 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 418 - Go TO Claim Status
+10-19-2022 14:52:20 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 421 - Claim Status Selected
+10-19-2022 14:52:24 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 427 - Update Status Clicked
+10-19-2022 14:52:28 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 431 - Pending Alert Accepted
+10-19-2022 14:53:08 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 450 - ====> REIMBURSMENT OVERVIEW THROUGH MANUAL TEST PASSED <====
+10-19-2022 14:53:09 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 458 - Total Claim Amount Fetched from site:- 4615
+10-19-2022 14:53:10 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 482 - Total Approved Amount Fetched from site(claim view) is not equal as expected :- 0
+10-19-2022 14:53:11 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPreviewBenefitItem] - INFO  - 513 - <==== REIMBURSMENT OVERVIEW PREVIEW BENEFIT ITEM THROUGH MANUAL TEST STARTED ====>
+10-19-2022 14:53:11 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPreviewBenefitItem] - INFO  - 516 - Preview Benefit Item Clicked
+10-19-2022 14:53:48 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPreviewBenefitItem] - INFO  - 531 - ====> REIMBURSMENT OVERVIEW PREVIEW BENEFIT ITEM THROUGH MANUAL TEST PASSED <====
+10-19-2022 14:53:49 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualviewLetter] - INFO  - 565 - <==== REIMBURSMENT OVERVIEW VIEW LETTER THROUGH MANUAL TEST STARTED ====>
+10-19-2022 14:53:49 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualviewLetter] - INFO  - 568 - View Letter Clicked
+10-19-2022 14:54:26 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualviewLetter] - INFO  - 583 - ====> REIMBURSMENT OVERVIEW THROUGH MANUAL TEST PASSED <====
+10-19-2022 14:54:26 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 614 - <==== REIMBURSMENT OVERVIEW GENERATE LETTER THROUGH MANUAL TEST STARTED ====>
+10-19-2022 14:54:27 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 617 - Generate Letter Button Clicked
+10-19-2022 14:55:00 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 689 - ====> REIMBURSMENT OVERVIEW GENERATE LETTER THROUGH MANUAL TEST FAILED <====
+10-19-2022 14:55:00 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPendinNotification] - INFO  - 762 - <==== REIMBURSMENT OVERVIEW roManualPendinNotification THROUGH MANUAL TEST STARTED ====>
+10-19-2022 15:27:41 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 34 - Base url launched - http://192.168.1.210/HealthBuzzApp/internal
+10-19-2022 15:27:41 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 36 - <===== Login test started ====>
+10-19-2022 15:27:42 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 41 - Username Entered
+10-19-2022 15:27:42 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 44 - Password Entered
+10-19-2022 15:27:48 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 47 - Submit Button Clicked
+10-19-2022 15:27:48 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 52 - ====> Login Test Pass <====
+10-19-2022 15:27:52 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 82 - <==== REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST STARTED ====>
+10-19-2022 15:27:53 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 87 - Claim clicked
+10-19-2022 15:27:54 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 90 - Reimbursment Clicked
+10-19-2022 15:28:10 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 93 - DataCapture Clicked
+10-19-2022 15:28:28 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 101 - Add Manual Claim Clicked
+10-19-2022 15:28:37 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 111 - Clicked Modify to Enter Policy Number
+10-19-2022 15:28:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 114 - Policy Number Entered..
+10-19-2022 15:28:42 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 146 - Policy Selected..
+10-19-2022 15:29:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 203 - Go To Creation Form
+10-19-2022 15:29:01 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 206 - Treatment Location Entered
+10-19-2022 15:29:07 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 210 - Treatment Location Selected
+10-19-2022 15:29:08 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 213 - Doctor Name Entered
+10-19-2022 15:29:11 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 217 - Doctor Name Selected
+10-19-2022 15:29:11 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 220 - Services selected...
+10-19-2022 15:29:11 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 223 - Date of Admission Entered
+10-19-2022 15:29:13 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 226 - Admission Time Entered
+10-19-2022 15:29:13 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 229 - Date of Discharge Entered
+10-19-2022 15:29:14 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 232 - Ward type selected..
+10-19-2022 15:29:15 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 235 - Discharge Time Entered
+10-19-2022 15:29:15 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 238 - Contact Number Entered
+10-19-2022 15:29:16 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 241 - Email Adress Entered
+10-19-2022 15:29:16 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 244 - Symptom/complaint Entered
+10-19-2022 15:29:16 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 247 - Bill Currency Selected
+10-19-2022 15:29:16 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 250 - Submission Date Entered
+10-19-2022 15:29:25 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 256 - Go To ICD Description
+10-19-2022 15:29:26 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 284 - ICD CODE ENTERED
+10-19-2022 15:29:29 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 288 - ICD CODE Selected
+10-19-2022 15:29:29 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 299 - ICD ADD BUTTON CLICKED
+10-19-2022 15:29:40 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 310 - ICD Table Displayed.
+10-19-2022 15:29:40 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 322 - Go To Surgery Description
+10-19-2022 15:29:41 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 357 - Surgery Code Entered
+10-19-2022 15:29:43 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 361 - Surgery Code Selected
+10-19-2022 15:29:43 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 364 - Surgery Amount Entered
+10-19-2022 15:29:43 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 367 - Incision Selected
+10-19-2022 15:29:46 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 371 - Surgery Button Add Clicked
+10-19-2022 15:29:49 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 378 - Surgery Table Displayed.
+10-19-2022 15:29:58 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 390 - Go To Settlement Method
+10-19-2022 15:29:58 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 393 - Settlement Type Selected
+10-19-2022 15:29:58 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 396 - Member Address Clicked
+10-19-2022 15:30:01 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 401 - GO TO DISPLAY BILL
+10-19-2022 15:30:06 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 482 - Clicked Input By Benefit Item
+10-19-2022 15:30:07 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 485 - Ok Clicked..
+10-19-2022 15:30:11 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 497 - 1 Bill charge date entered. - 2018/09/19
+10-19-2022 15:30:15 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 502 - 1 Benefit Item Selected - Miscellaneous Hospital Expenses (Confinement Benefits)
+10-19-2022 15:30:17 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 507 - 1 No. of Claim Days Entered - 1
+10-19-2022 15:30:20 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 512 - 1 No. of Paid Days Entered - 1
+10-19-2022 15:30:22 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 517 - 1 Bill Amount Entered - 75
+10-19-2022 15:30:24 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 521 - 1 Add Bill Clicked
+10-19-2022 15:30:28 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 497 - 2 Bill charge date entered. - 2018/09/19
+10-19-2022 15:30:32 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 502 - 2 Benefit Item Selected - Daily Room & Board (Confinement Benefits)
+10-19-2022 15:30:35 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 507 - 2 No. of Claim Days Entered - 44
+10-19-2022 15:30:37 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 512 - 2 No. of Paid Days Entered - 44
+10-19-2022 15:30:39 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 517 - 2 Bill Amount Entered - 4540
+10-19-2022 15:30:41 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 521 - 2 Add Bill Clicked
+10-19-2022 15:31:10 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 607 - Save Clicked
+10-19-2022 15:31:20 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 610 - Alert Message: Success! Claim Number :-1013501 generated successfully.
+10-19-2022 15:31:30 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 713 - AssessmentEnquiry Clicked
+10-19-2022 15:32:09 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 721 - Click on Go Button
+10-19-2022 15:32:18 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 730 - Go To Assessment Page Details
+10-19-2022 15:32:19 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 734 - Claim Number Selected
+10-19-2022 15:32:19 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 737 - Descript Entered in Assessment
+10-19-2022 15:32:19 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 740 - Assessment Saved
+10-19-2022 15:32:44 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 748 - Assessment Pop up Closed.
+10-19-2022 15:32:44 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 751 - click on Show Hide Pop up Button
+10-19-2022 15:33:06 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 763 - Auto-Audjudicate Clicked
+10-19-2022 15:33:21 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 774 - No Rule Found
+10-19-2022 15:33:21 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 776 - Confirm Clicked
+10-19-2022 15:33:26 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 781 - Alert Accepted
+10-19-2022 15:33:35 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 786 - Alert Message: Claim # 1013501 pass to Carrie Hu
+10-19-2022 15:33:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 792 - Second Alert Accepted
+10-19-2022 15:33:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 824 - ====> REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST PASSED <====
+10-19-2022 15:33:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureSearchClaim] - INFO  - 852 - Screenshot already capture for data capture claim search
+10-19-2022 15:33:37 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 861 - <==== Logout Test Started ====>
+10-19-2022 15:33:47 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 865 - Profile Icon Clicked for logout
+10-19-2022 15:33:47 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 868 - Log Out Clicked
+10-19-2022 15:33:50 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 874 - ====> LogOut Test Pass <====
+10-19-2022 15:34:02 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 37 - Base url launched
+10-19-2022 15:34:02 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 39 - <===== Login test started ====>
+10-19-2022 15:34:02 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 44 - Username Entered
+10-19-2022 15:34:02 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 47 - Password Entered
+10-19-2022 15:34:04 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 50 - Submit Button Clicked
+10-19-2022 15:34:04 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 55 - ====> Login Test Pass <====
+10-19-2022 15:34:07 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 85 - <==== REIMBURSMENT OVERVIEW THROUGH MANUAL TEST STARTED ====>
+10-19-2022 15:34:08 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 90 - Claim clicked
+10-19-2022 15:34:09 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 93 - Reimbursment Clicked
+10-19-2022 15:34:15 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 96 - Reimbursment Overview Clicked
+10-19-2022 15:34:25 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 114 - Claim No Entered
+10-19-2022 15:34:26 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 125 - Case Picked by selected
+10-19-2022 15:34:27 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 129 - claim search
+10-19-2022 15:34:36 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 140 - Reassigned Clicked
+10-19-2022 15:34:37 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 146 - User Name Entered for Reassigned
+10-19-2022 15:34:37 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 149 - Search Clicked for Assigned User
+10-19-2022 15:34:37 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 152 - Select Clicked and User Assigned for the claim
+10-19-2022 15:34:51 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 163 - Proceed Clicked
+10-19-2022 15:35:28 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 187 - APS Generate Letter Button Clicked
+10-19-2022 15:35:36 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 199 - Doctor Name Entered
+10-19-2022 15:35:39 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 203 - Doctor Name Selected
+10-19-2022 15:35:40 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 206 - Go Clicked
+10-19-2022 15:35:47 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 219 - Title Entered
+10-19-2022 15:35:48 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 222 - Payee Entered
+10-19-2022 15:35:48 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 225 - Attention Name Entered
+10-19-2022 15:35:49 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 228 - Address 1 Entered
+10-19-2022 15:35:50 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 231 - Address 2 Entered
+10-19-2022 15:35:51 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 234 - Address 3 Entered
+10-19-2022 15:35:51 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 237 - Address 4 Entered
+10-19-2022 15:35:52 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 240 - Reminder Period Entered
+10-19-2022 15:35:54 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 244 - Question 1 Selected
+10-19-2022 15:35:57 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 248 - Question 2 Selected
+10-19-2022 15:36:00 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 252 - Question 3 Selected
+10-19-2022 15:36:02 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 256 - Question 4 selected
+10-19-2022 15:36:07 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 261 - Scroll Down TO Save
+10-19-2022 15:36:09 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 264 - Save Clicked
+10-19-2022 15:36:19 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 269 - Generate Letter Clicked
+10-19-2022 15:36:33 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 277 - Scroll Down TO Save
+10-19-2022 15:36:41 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 281 - Generate Letter Button Clicked
+10-19-2022 15:36:41 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 289 - APS letter generated generated
+10-19-2022 15:37:01 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 301 - ====> REIMBURSMENT OVERVIEW roManualAPSGeneration THROUGH MANUAL TEST PASSED <====
+10-19-2022 15:37:10 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 366 - Pending Notification Clicked
+10-19-2022 15:37:25 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 375 - Search Remarks Clicked
+10-19-2022 15:37:34 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 381 - Remarks Code Entered
+10-19-2022 15:37:36 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 385 - Search Clicked
+10-19-2022 15:37:39 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 389 - Go Clicked
+10-19-2022 15:37:43 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 393 - Save Clicked
+10-19-2022 15:37:56 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 409 - Auto Audjudicate Clicked
+10-19-2022 15:38:12 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 418 - Go TO Claim Status
+10-19-2022 15:38:13 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 421 - Claim Status Selected
+10-19-2022 15:38:18 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 427 - Update Status Clicked
+10-19-2022 15:38:22 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 431 - Pending Alert Accepted
+10-19-2022 15:39:10 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 450 - ====> REIMBURSMENT OVERVIEW THROUGH MANUAL TEST PASSED <====
+10-19-2022 15:39:11 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 458 - Total Claim Amount Fetched from site:- 4615
+10-19-2022 15:39:12 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 482 - Total Approved Amount Fetched from site(claim view) is not equal as expected :- 0
+10-19-2022 15:39:13 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPreviewBenefitItem] - INFO  - 513 - <==== REIMBURSMENT OVERVIEW PREVIEW BENEFIT ITEM THROUGH MANUAL TEST STARTED ====>
+10-19-2022 15:39:14 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPreviewBenefitItem] - INFO  - 516 - Preview Benefit Item Clicked
+10-19-2022 15:39:51 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPreviewBenefitItem] - INFO  - 531 - ====> REIMBURSMENT OVERVIEW PREVIEW BENEFIT ITEM THROUGH MANUAL TEST PASSED <====
+10-19-2022 15:39:51 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualviewLetter] - INFO  - 565 - <==== REIMBURSMENT OVERVIEW VIEW LETTER THROUGH MANUAL TEST STARTED ====>
+10-19-2022 15:39:52 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualviewLetter] - INFO  - 568 - View Letter Clicked
+10-19-2022 15:40:29 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualviewLetter] - INFO  - 583 - ====> REIMBURSMENT OVERVIEW THROUGH MANUAL TEST PASSED <====
+10-19-2022 15:40:29 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 614 - <==== REIMBURSMENT OVERVIEW GENERATE LETTER THROUGH MANUAL TEST STARTED ====>
+10-19-2022 15:40:29 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 617 - Generate Letter Button Clicked
+10-19-2022 15:40:52 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 651 - Letter Content:- If you disagree with the above claim decision, you may submit an appeal to us within 90 days from the date of this notice. Please refer to our website: http://www.axa.com.hk/en/claims-appeal for details. If we do not receive your appeal request by this date, we shall consider the claim decision as final.
+10-19-2022 15:40:52 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 657 - Scroll Down to Generate Letter Button
+10-19-2022 15:41:00 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 661 - Generate Letter Button Clicked
+10-19-2022 15:41:30 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 670 - Settlement letter generated
+10-19-2022 15:41:31 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 681 - ====> REIMBURSMENT OVERVIEW GENERATE LETTER THROUGH MANUAL TEST PASSED <====
+10-19-2022 15:41:31 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPendinNotification] - INFO  - 766 - <==== REIMBURSMENT OVERVIEW roManualPendinNotification THROUGH MANUAL TEST STARTED ====>
+10-19-2022 15:41:33 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPendinNotification] - INFO  - 769 - Pending Notification Button Clicked
+10-19-2022 15:41:49 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPendinNotification] - INFO  - 824 - ====> REIMBURSMENT OVERVIEW roManualPendinNotification THROUGH MANUAL TEST PASSED <====
+10-19-2022 15:41:54 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 865 - <==== REIMBURSMENT OVERVIEW roManualApprovedClaimSearch THROUGH MANUAL TEST STARTED ====>
+10-19-2022 15:41:55 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 876 - Approved Status Selected
+10-19-2022 15:41:56 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 886 - Claim No Entered
+10-19-2022 15:41:57 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 897 - Search Button Clicked
+10-19-2022 15:41:58 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 904 - Claim Number Verified
+10-19-2022 15:42:07 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 915 - ====> REIMBURSMENT OVERVIEW roManualApprovedClaimSearch THROUGH MANUAL TEST PASSED <====
+10-19-2022 15:42:07 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [logoutLevel2Test] - INFO  - 939 - <==== Logout Test Started ====>
+10-19-2022 15:42:18 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [logoutLevel2Test] - INFO  - 943 - Profile Icon Clicked for logout
+10-19-2022 15:42:18 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [logoutLevel2Test] - INFO  - 946 - Log Out Clicked
+10-19-2022 15:42:21 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [logoutLevel2Test] - INFO  - 952 - ====> LogOut Test Pass <====
+10-19-2022 16:07:55 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 34 - Base url launched - http://192.168.1.210/HealthBuzzApp/internal
+10-19-2022 16:07:55 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 36 - <===== Login test started ====>
+10-19-2022 16:07:56 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 41 - Username Entered
+10-19-2022 16:07:56 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 44 - Password Entered
+10-19-2022 16:07:59 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 47 - Submit Button Clicked
+10-19-2022 16:07:59 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 52 - ====> Login Test Pass <====
+10-19-2022 16:08:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 82 - <==== REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST STARTED ====>
+10-19-2022 16:08:05 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 87 - Claim clicked
+10-19-2022 16:08:07 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 90 - Reimbursment Clicked
+10-19-2022 16:08:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 93 - DataCapture Clicked
+10-19-2022 16:08:25 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 101 - Add Manual Claim Clicked
+10-19-2022 16:08:34 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 111 - Clicked Modify to Enter Policy Number
+10-19-2022 16:08:34 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 114 - Policy Number Entered..
+10-19-2022 16:08:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 146 - Policy Selected..
+10-19-2022 16:08:53 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 203 - Go To Creation Form
+10-19-2022 16:08:53 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 206 - Treatment Location Entered
+10-19-2022 16:08:58 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 210 - Treatment Location Selected
+10-19-2022 16:08:58 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 213 - Doctor Name Entered
+10-19-2022 16:09:01 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 217 - Doctor Name Selected
+10-19-2022 16:09:02 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 220 - Services selected...
+10-19-2022 16:09:02 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 223 - Date of Admission Entered
+10-19-2022 16:09:04 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 226 - Admission Time Entered
+10-19-2022 16:09:04 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 229 - Date of Discharge Entered
+10-19-2022 16:09:04 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 232 - Ward type selected..
+10-19-2022 16:09:06 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 235 - Discharge Time Entered
+10-19-2022 16:09:06 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 238 - Contact Number Entered
+10-19-2022 16:09:06 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 241 - Email Adress Entered
+10-19-2022 16:09:06 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 244 - Symptom/complaint Entered
+10-19-2022 16:09:06 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 247 - Bill Currency Selected
+10-19-2022 16:09:07 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 250 - Submission Date Entered
+10-19-2022 16:09:16 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 256 - Go To ICD Description
+10-19-2022 16:09:16 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 284 - ICD CODE ENTERED
+10-19-2022 16:09:19 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 288 - ICD CODE Selected
+10-19-2022 16:09:20 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 299 - ICD ADD BUTTON CLICKED
+10-19-2022 16:09:31 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 310 - ICD Table Displayed.
+10-19-2022 16:09:31 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 322 - Go To Surgery Description
+10-19-2022 16:09:31 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 357 - Surgery Code Entered
+10-19-2022 16:09:33 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 361 - Surgery Code Selected
+10-19-2022 16:09:34 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 364 - Surgery Amount Entered
+10-19-2022 16:09:34 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 367 - Incision Selected
+10-19-2022 16:09:36 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 371 - Surgery Button Add Clicked
+10-19-2022 16:09:39 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 378 - Surgery Table Displayed.
+10-19-2022 16:09:48 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 390 - Go To Settlement Method
+10-19-2022 16:09:48 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 393 - Settlement Type Selected
+10-19-2022 16:09:49 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 396 - Member Address Clicked
+10-19-2022 16:09:52 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 401 - GO TO DISPLAY BILL
+10-19-2022 16:09:57 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 482 - Clicked Input By Benefit Item
+10-19-2022 16:09:57 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 485 - Ok Clicked..
+10-19-2022 16:10:01 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 497 - 1 Bill charge date entered. - 2018/09/19
+10-19-2022 16:10:06 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 502 - 1 Benefit Item Selected - Miscellaneous Hospital Expenses (Confinement Benefits)
+10-19-2022 16:10:08 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 507 - 1 No. of Claim Days Entered - 1
+10-19-2022 16:10:10 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 512 - 1 No. of Paid Days Entered - 1
+10-19-2022 16:10:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 517 - 1 Bill Amount Entered - 75
+10-19-2022 16:10:15 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 521 - 1 Add Bill Clicked
+10-19-2022 16:10:18 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 497 - 2 Bill charge date entered. - 2018/09/19
+10-19-2022 16:10:23 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 502 - 2 Benefit Item Selected - Daily Room & Board (Confinement Benefits)
+10-19-2022 16:10:25 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 507 - 2 No. of Claim Days Entered - 44
+10-19-2022 16:10:27 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 512 - 2 No. of Paid Days Entered - 44
+10-19-2022 16:10:29 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 517 - 2 Bill Amount Entered - 4540
+10-19-2022 16:10:32 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 521 - 2 Add Bill Clicked
+10-19-2022 16:10:46 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 607 - Save Clicked
+10-19-2022 16:10:57 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 610 - Alert Message: Success! Claim Number :-1013502 generated successfully.
+10-19-2022 16:11:07 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 713 - AssessmentEnquiry Clicked
+10-19-2022 16:11:46 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 721 - Click on Go Button
+10-19-2022 16:11:55 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 730 - Go To Assessment Page Details
+10-19-2022 16:11:56 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 734 - Claim Number Selected
+10-19-2022 16:11:56 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 737 - Descript Entered in Assessment
+10-19-2022 16:11:56 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 740 - Assessment Saved
+10-19-2022 16:12:21 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 748 - Assessment Pop up Closed.
+10-19-2022 16:12:21 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 751 - click on Show Hide Pop up Button
+10-19-2022 16:12:42 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 763 - Auto-Audjudicate Clicked
+10-19-2022 16:12:58 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 774 - No Rule Found
+10-19-2022 16:12:58 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 776 - Confirm Clicked
+10-19-2022 16:13:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 781 - Alert Accepted
+10-19-2022 16:13:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 786 - Alert Message: Claim # 1013502 pass to Francee Liang
+10-19-2022 16:13:13 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 792 - Second Alert Accepted
+10-19-2022 16:13:13 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 824 - ====> REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST PASSED <====
+10-19-2022 16:13:13 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureSearchClaim] - INFO  - 852 - Screenshot already capture for data capture claim search
+10-19-2022 16:13:14 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 861 - <==== Logout Test Started ====>
+10-19-2022 16:13:24 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 865 - Profile Icon Clicked for logout
+10-19-2022 16:13:24 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 868 - Log Out Clicked
+10-19-2022 16:13:27 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 874 - ====> LogOut Test Pass <====
+10-19-2022 16:13:38 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 37 - Base url launched
+10-19-2022 16:13:38 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 39 - <===== Login test started ====>
+10-19-2022 16:13:39 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 44 - Username Entered
+10-19-2022 16:13:39 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 47 - Password Entered
+10-19-2022 16:13:40 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 50 - Submit Button Clicked
+10-19-2022 16:13:40 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 55 - ====> Login Test Pass <====
+10-19-2022 16:13:43 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 85 - <==== REIMBURSMENT OVERVIEW THROUGH MANUAL TEST STARTED ====>
+10-19-2022 16:13:45 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 90 - Claim clicked
+10-19-2022 16:13:46 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 93 - Reimbursment Clicked
+10-19-2022 16:13:48 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 96 - Reimbursment Overview Clicked
+10-19-2022 16:13:58 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 114 - Claim No Entered
+10-19-2022 16:13:59 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 125 - Case Picked by selected
+10-19-2022 16:14:00 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 129 - claim search
+10-19-2022 16:14:09 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 140 - Reassigned Clicked
+10-19-2022 16:14:10 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 146 - User Name Entered for Reassigned
+10-19-2022 16:14:10 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 149 - Search Clicked for Assigned User
+10-19-2022 16:14:10 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 152 - Select Clicked and User Assigned for the claim
+10-19-2022 16:14:24 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 163 - Proceed Clicked
+10-19-2022 16:15:01 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 187 - APS Generate Letter Button Clicked
+10-19-2022 16:15:09 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 199 - Doctor Name Entered
+10-19-2022 16:15:12 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 203 - Doctor Name Selected
+10-19-2022 16:15:12 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 206 - Go Clicked
+10-19-2022 16:15:19 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 219 - Title Entered
+10-19-2022 16:15:19 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 222 - Payee Entered
+10-19-2022 16:15:20 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 225 - Attention Name Entered
+10-19-2022 16:15:20 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 228 - Address 1 Entered
+10-19-2022 16:15:20 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 231 - Address 2 Entered
+10-19-2022 16:15:20 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 234 - Address 3 Entered
+10-19-2022 16:15:21 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 237 - Address 4 Entered
+10-19-2022 16:15:21 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 240 - Reminder Period Entered
+10-19-2022 16:15:23 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 244 - Question 1 Selected
+10-19-2022 16:15:25 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 248 - Question 2 Selected
+10-19-2022 16:15:27 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 252 - Question 3 Selected
+10-19-2022 16:15:29 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 256 - Question 4 selected
+10-19-2022 16:15:35 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 261 - Scroll Down TO Save
+10-19-2022 16:15:36 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 264 - Save Clicked
+10-19-2022 16:15:46 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 269 - Generate Letter Clicked
+10-19-2022 16:15:48 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 277 - Scroll Down TO Save
+10-19-2022 16:15:52 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 281 - Generate Letter Button Clicked
+10-19-2022 16:15:52 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 289 - APS letter generated generated
+10-19-2022 16:16:12 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 301 - ====> REIMBURSMENT OVERVIEW roManualAPSGeneration THROUGH MANUAL TEST PASSED <====
+10-19-2022 16:16:22 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 366 - Pending Notification Clicked
+10-19-2022 16:16:36 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 375 - Search Remarks Clicked
+10-19-2022 16:16:45 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 381 - Remarks Code Entered
+10-19-2022 16:16:47 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 385 - Search Clicked
+10-19-2022 16:16:50 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 389 - Go Clicked
+10-19-2022 16:16:53 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 393 - Save Clicked
+10-19-2022 16:17:07 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 409 - Auto Audjudicate Clicked
+10-19-2022 16:17:20 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 418 - Go TO Claim Status
+10-19-2022 16:17:20 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 421 - Claim Status Selected
+10-19-2022 16:17:24 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 427 - Update Status Clicked
+10-19-2022 16:17:28 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 431 - Pending Alert Accepted
+10-19-2022 16:18:02 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 450 - ====> REIMBURSMENT OVERVIEW THROUGH MANUAL TEST PASSED <====
+10-19-2022 16:18:03 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 458 - Total Claim Amount Fetched from site:- 4615
+10-19-2022 16:18:04 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 482 - Total Approved Amount Fetched from site(claim view) is not equal as expected :- 0
+10-19-2022 16:18:05 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPreviewBenefitItem] - INFO  - 513 - <==== REIMBURSMENT OVERVIEW PREVIEW BENEFIT ITEM THROUGH MANUAL TEST STARTED ====>
+10-19-2022 16:18:05 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPreviewBenefitItem] - INFO  - 516 - Preview Benefit Item Clicked
+10-19-2022 16:18:42 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPreviewBenefitItem] - INFO  - 531 - ====> REIMBURSMENT OVERVIEW PREVIEW BENEFIT ITEM THROUGH MANUAL TEST PASSED <====
+10-19-2022 16:18:43 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualviewLetter] - INFO  - 565 - <==== REIMBURSMENT OVERVIEW VIEW LETTER THROUGH MANUAL TEST STARTED ====>
+10-19-2022 16:18:43 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualviewLetter] - INFO  - 568 - View Letter Clicked
+10-19-2022 16:19:20 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualviewLetter] - INFO  - 583 - ====> REIMBURSMENT OVERVIEW THROUGH MANUAL TEST PASSED <====
+10-19-2022 16:19:20 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 614 - <==== REIMBURSMENT OVERVIEW GENERATE LETTER THROUGH MANUAL TEST STARTED ====>
+10-19-2022 16:19:21 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 617 - Generate Letter Button Clicked
+10-19-2022 16:19:43 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 644 - Letter Content:- If you disagree with the above claim decision, you may submit an appeal to us within 90 days from the date of this notice. Please refer to our website: http://www.axa.com.hk/en/claims-appeal for details. If we do not receive your appeal request by this date, we shall consider the claim decision as final.
+10-19-2022 16:19:43 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 660 - Scroll Down to Generate Letter Button
+10-19-2022 16:19:48 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 664 - Generate Letter Button Clicked
+10-19-2022 16:20:18 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 673 - Settlement letter generated
+10-19-2022 16:20:18 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 684 - ====> REIMBURSMENT OVERVIEW GENERATE LETTER THROUGH MANUAL TEST PASSED <====
+10-19-2022 16:20:19 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPendinNotification] - INFO  - 769 - <==== REIMBURSMENT OVERVIEW roManualPendinNotification THROUGH MANUAL TEST STARTED ====>
+10-19-2022 16:20:20 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPendinNotification] - INFO  - 772 - Pending Notification Button Clicked
+10-19-2022 16:20:37 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPendinNotification] - INFO  - 827 - ====> REIMBURSMENT OVERVIEW roManualPendinNotification THROUGH MANUAL TEST PASSED <====
+10-19-2022 16:20:41 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 868 - <==== REIMBURSMENT OVERVIEW roManualApprovedClaimSearch THROUGH MANUAL TEST STARTED ====>
+10-19-2022 16:20:42 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 879 - Approved Status Selected
+10-19-2022 16:20:42 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 889 - Claim No Entered
+10-19-2022 16:20:43 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 900 - Search Button Clicked
+10-19-2022 16:20:43 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 907 - Claim Number Verified
+10-19-2022 16:20:52 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 918 - ====> REIMBURSMENT OVERVIEW roManualApprovedClaimSearch THROUGH MANUAL TEST PASSED <====
+10-19-2022 16:20:53 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [logoutLevel2Test] - INFO  - 942 - <==== Logout Test Started ====>
+10-19-2022 16:21:03 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [logoutLevel2Test] - INFO  - 946 - Profile Icon Clicked for logout
+10-19-2022 16:21:03 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [logoutLevel2Test] - INFO  - 949 - Log Out Clicked
+10-19-2022 16:21:06 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [logoutLevel2Test] - INFO  - 955 - ====> LogOut Test Pass <====
+10-19-2022 16:36:47 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 34 - Base url launched - http://192.168.1.210/HealthBuzzApp/internal
+10-19-2022 16:36:47 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 36 - <===== Login test started ====>
+10-19-2022 16:36:48 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 41 - Username Entered
+10-19-2022 16:36:48 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 44 - Password Entered
+10-19-2022 16:36:50 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 47 - Submit Button Clicked
+10-19-2022 16:36:50 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [loginLevel0Test] - INFO  - 52 - ====> Login Test Pass <====
+10-19-2022 16:36:53 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 82 - <==== REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST STARTED ====>
+10-19-2022 16:36:55 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 87 - Claim clicked
+10-19-2022 16:36:56 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 90 - Reimbursment Clicked
+10-19-2022 16:36:59 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 93 - DataCapture Clicked
+10-19-2022 16:37:11 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 101 - Add Manual Claim Clicked
+10-19-2022 16:37:21 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 111 - Clicked Modify to Enter Policy Number
+10-19-2022 16:37:21 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 114 - Policy Number Entered..
+10-19-2022 16:37:24 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 146 - Policy Selected..
+10-19-2022 16:37:39 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 203 - Go To Creation Form
+10-19-2022 16:37:40 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 206 - Treatment Location Entered
+10-19-2022 16:37:44 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 210 - Treatment Location Selected
+10-19-2022 16:37:44 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 213 - Doctor Name Entered
+10-19-2022 16:37:47 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 217 - Doctor Name Selected
+10-19-2022 16:37:47 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 220 - Services selected...
+10-19-2022 16:37:48 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 223 - Date of Admission Entered
+10-19-2022 16:37:49 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 226 - Admission Time Entered
+10-19-2022 16:37:49 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 229 - Date of Discharge Entered
+10-19-2022 16:37:50 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 232 - Ward type selected..
+10-19-2022 16:37:51 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 235 - Discharge Time Entered
+10-19-2022 16:37:51 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 238 - Contact Number Entered
+10-19-2022 16:37:52 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 241 - Email Adress Entered
+10-19-2022 16:37:52 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 244 - Symptom/complaint Entered
+10-19-2022 16:37:52 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 247 - Bill Currency Selected
+10-19-2022 16:37:52 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 250 - Submission Date Entered
+10-19-2022 16:38:01 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 256 - Go To ICD Description
+10-19-2022 16:38:02 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 284 - ICD CODE ENTERED
+10-19-2022 16:38:05 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 288 - ICD CODE Selected
+10-19-2022 16:38:05 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 299 - ICD ADD BUTTON CLICKED
+10-19-2022 16:38:16 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 310 - ICD Table Displayed.
+10-19-2022 16:38:16 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 322 - Go To Surgery Description
+10-19-2022 16:38:16 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 357 - Surgery Code Entered
+10-19-2022 16:38:19 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 361 - Surgery Code Selected
+10-19-2022 16:38:19 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 364 - Surgery Amount Entered
+10-19-2022 16:38:19 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 367 - Incision Selected
+10-19-2022 16:38:21 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 371 - Surgery Button Add Clicked
+10-19-2022 16:38:24 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 378 - Surgery Table Displayed.
+10-19-2022 16:38:34 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 390 - Go To Settlement Method
+10-19-2022 16:38:34 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 393 - Settlement Type Selected
+10-19-2022 16:38:34 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 396 - Member Address Clicked
+10-19-2022 16:38:37 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 401 - GO TO DISPLAY BILL
+10-19-2022 16:38:42 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 482 - Clicked Input By Benefit Item
+10-19-2022 16:38:43 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 485 - Ok Clicked..
+10-19-2022 16:38:47 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 497 - 1 Bill charge date entered. - 2018/09/19
+10-19-2022 16:38:51 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 502 - 1 Benefit Item Selected - Miscellaneous Hospital Expenses (Confinement Benefits)
+10-19-2022 16:38:53 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 507 - 1 No. of Claim Days Entered - 1
+10-19-2022 16:38:55 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 512 - 1 No. of Paid Days Entered - 1
+10-19-2022 16:38:58 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 517 - 1 Bill Amount Entered - 75
+10-19-2022 16:39:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 521 - 1 Add Bill Clicked
+10-19-2022 16:39:04 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 497 - 2 Bill charge date entered. - 2018/09/19
+10-19-2022 16:39:08 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 502 - 2 Benefit Item Selected - Daily Room & Board (Confinement Benefits)
+10-19-2022 16:39:10 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 507 - 2 No. of Claim Days Entered - 44
+10-19-2022 16:39:12 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 512 - 2 No. of Paid Days Entered - 44
+10-19-2022 16:39:15 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 517 - 2 Bill Amount Entered - 4540
+10-19-2022 16:39:17 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 521 - 2 Add Bill Clicked
+10-19-2022 16:39:32 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 607 - Save Clicked
+10-19-2022 16:39:40 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 610 - Alert Message: Success! Claim Number :-1013504 generated successfully.
+10-19-2022 16:39:49 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 713 - AssessmentEnquiry Clicked
+10-19-2022 16:40:29 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 721 - Click on Go Button
+10-19-2022 16:40:38 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 730 - Go To Assessment Page Details
+10-19-2022 16:40:39 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 734 - Claim Number Selected
+10-19-2022 16:40:39 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 737 - Descript Entered in Assessment
+10-19-2022 16:40:39 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 740 - Assessment Saved
+10-19-2022 16:41:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 748 - Assessment Pop up Closed.
+10-19-2022 16:41:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 751 - click on Show Hide Pop up Button
+10-19-2022 16:41:19 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 763 - Auto-Audjudicate Clicked
+10-19-2022 16:41:34 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 774 - No Rule Found
+10-19-2022 16:41:34 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 776 - Confirm Clicked
+10-19-2022 16:41:39 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 781 - Alert Accepted
+10-19-2022 16:41:48 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 786 - Alert Message: Claim # 1013504 pass to Phoebe zheng
+10-19-2022 16:41:49 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 792 - Second Alert Accepted
+10-19-2022 16:41:49 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureManual] - INFO  - 824 - ====> REIMBURSMENT DATA CAPTURE THROUGH MANUAL TEST PASSED <====
+10-19-2022 16:41:49 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [reimDCaptureSearchClaim] - INFO  - 852 - Screenshot already capture for data capture claim search
+10-19-2022 16:41:50 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 861 - <==== Logout Test Started ====>
+10-19-2022 16:42:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 865 - Profile Icon Clicked for logout
+10-19-2022 16:42:00 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 868 - Log Out Clicked
+10-19-2022 16:42:03 - [hbAxa] - [TC_ReimDCTestManual_001.java] - [logoutLevel0Test] - INFO  - 874 - ====> LogOut Test Pass <====
+10-19-2022 16:42:14 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 37 - Base url launched
+10-19-2022 16:42:14 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 39 - <===== Login test started ====>
+10-19-2022 16:42:15 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 44 - Username Entered
+10-19-2022 16:42:15 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 47 - Password Entered
+10-19-2022 16:42:16 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 50 - Submit Button Clicked
+10-19-2022 16:42:16 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [loginLevel2Test] - INFO  - 55 - ====> Login Test Pass <====
+10-19-2022 16:42:20 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 85 - <==== REIMBURSMENT OVERVIEW THROUGH MANUAL TEST STARTED ====>
+10-19-2022 16:42:21 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 90 - Claim clicked
+10-19-2022 16:42:22 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 93 - Reimbursment Clicked
+10-19-2022 16:42:25 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 96 - Reimbursment Overview Clicked
+10-19-2022 16:42:34 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 114 - Claim No Entered
+10-19-2022 16:42:35 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 125 - Case Picked by selected
+10-19-2022 16:42:36 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 129 - claim search
+10-19-2022 16:42:45 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 140 - Reassigned Clicked
+10-19-2022 16:42:46 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 146 - User Name Entered for Reassigned
+10-19-2022 16:42:46 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 149 - Search Clicked for Assigned User
+10-19-2022 16:42:46 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 152 - Select Clicked and User Assigned for the claim
+10-19-2022 16:43:00 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 163 - Proceed Clicked
+10-19-2022 16:43:36 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 187 - APS Generate Letter Button Clicked
+10-19-2022 16:43:44 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 199 - Doctor Name Entered
+10-19-2022 16:43:47 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 203 - Doctor Name Selected
+10-19-2022 16:43:47 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 206 - Go Clicked
+10-19-2022 16:43:55 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 219 - Title Entered
+10-19-2022 16:43:55 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 222 - Payee Entered
+10-19-2022 16:43:55 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 225 - Attention Name Entered
+10-19-2022 16:43:55 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 228 - Address 1 Entered
+10-19-2022 16:43:56 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 231 - Address 2 Entered
+10-19-2022 16:43:56 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 234 - Address 3 Entered
+10-19-2022 16:43:56 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 237 - Address 4 Entered
+10-19-2022 16:43:56 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 240 - Reminder Period Entered
+10-19-2022 16:43:59 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 244 - Question 1 Selected
+10-19-2022 16:44:01 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 248 - Question 2 Selected
+10-19-2022 16:44:04 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 252 - Question 3 Selected
+10-19-2022 16:44:06 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 256 - Question 4 selected
+10-19-2022 16:44:11 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 261 - Scroll Down TO Save
+10-19-2022 16:44:12 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 264 - Save Clicked
+10-19-2022 16:44:23 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 269 - Generate Letter Clicked
+10-19-2022 16:44:25 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 277 - Scroll Down TO Save
+10-19-2022 16:44:31 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 281 - Generate Letter Button Clicked
+10-19-2022 16:44:31 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 289 - APS letter generated generated
+10-19-2022 16:44:51 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 301 - ====> REIMBURSMENT OVERVIEW roManualAPSGeneration THROUGH MANUAL TEST PASSED <====
+10-19-2022 16:45:00 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 366 - Pending Notification Clicked
+10-19-2022 16:45:15 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 375 - Search Remarks Clicked
+10-19-2022 16:45:24 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 381 - Remarks Code Entered
+10-19-2022 16:45:25 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 385 - Search Clicked
+10-19-2022 16:45:28 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 389 - Go Clicked
+10-19-2022 16:45:33 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 393 - Save Clicked
+10-19-2022 16:45:47 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 409 - Auto Audjudicate Clicked
+10-19-2022 16:46:08 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 418 - Go TO Claim Status
+10-19-2022 16:46:08 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 421 - Claim Status Selected
+10-19-2022 16:46:13 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 427 - Update Status Clicked
+10-19-2022 16:46:17 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 431 - Pending Alert Accepted
+10-19-2022 16:46:53 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 450 - ====> REIMBURSMENT OVERVIEW THROUGH MANUAL TEST PASSED <====
+10-19-2022 16:46:54 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 458 - Total Claim Amount Fetched from site:- 4615
+10-19-2022 16:46:55 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [reimOverviewManual] - INFO  - 482 - Total Approved Amount Fetched from site(claim view) is not equal as expected :- 0
+10-19-2022 16:46:56 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPreviewBenefitItem] - INFO  - 513 - <==== REIMBURSMENT OVERVIEW PREVIEW BENEFIT ITEM THROUGH MANUAL TEST STARTED ====>
+10-19-2022 16:46:56 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPreviewBenefitItem] - INFO  - 516 - Preview Benefit Item Clicked
+10-19-2022 16:47:33 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPreviewBenefitItem] - INFO  - 531 - ====> REIMBURSMENT OVERVIEW PREVIEW BENEFIT ITEM THROUGH MANUAL TEST PASSED <====
+10-19-2022 16:47:34 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualviewLetter] - INFO  - 565 - <==== REIMBURSMENT OVERVIEW VIEW LETTER THROUGH MANUAL TEST STARTED ====>
+10-19-2022 16:47:34 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualviewLetter] - INFO  - 568 - View Letter Clicked
+10-19-2022 16:48:11 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualviewLetter] - INFO  - 583 - ====> REIMBURSMENT OVERVIEW THROUGH MANUAL TEST PASSED <====
+10-19-2022 16:48:11 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 614 - <==== REIMBURSMENT OVERVIEW GENERATE LETTER THROUGH MANUAL TEST STARTED ====>
+10-19-2022 16:48:12 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 617 - Generate Letter Button Clicked
+10-19-2022 16:48:34 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 644 - Letter Content:- If you disagree with the above claim decision, you may submit an appeal to us within 90 days from the date of this notice. Please refer to our website: http://www.axa.com.hk/en/claims-appeal for details. If we do not receive your appeal request by this date, we shall consider the claim decision as final.
+10-19-2022 16:48:34 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 660 - Scroll Down to Generate Letter Button
+10-19-2022 16:48:40 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 664 - Generate Letter Button Clicked
+10-19-2022 16:49:11 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 673 - Settlement letter generated
+10-19-2022 16:49:11 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualGenerateLetter] - INFO  - 684 - ====> REIMBURSMENT OVERVIEW GENERATE LETTER THROUGH MANUAL TEST PASSED <====
+10-19-2022 16:49:12 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPendinNotification] - INFO  - 769 - <==== REIMBURSMENT OVERVIEW roManualPendinNotification THROUGH MANUAL TEST STARTED ====>
+10-19-2022 16:49:13 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPendinNotification] - INFO  - 772 - Pending Notification Button Clicked
+10-19-2022 16:49:29 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualPendinNotification] - INFO  - 827 - ====> REIMBURSMENT OVERVIEW roManualPendinNotification THROUGH MANUAL TEST PASSED <====
+10-19-2022 16:49:33 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 868 - <==== REIMBURSMENT OVERVIEW roManualApprovedClaimSearch THROUGH MANUAL TEST STARTED ====>
+10-19-2022 16:49:34 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 879 - Approved Status Selected
+10-19-2022 16:49:35 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 889 - Claim No Entered
+10-19-2022 16:49:45 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 900 - Search Button Clicked
+10-19-2022 16:49:45 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 907 - Claim Number Verified
+10-19-2022 16:49:54 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [roManualApprovedClaimSearch] - INFO  - 918 - ====> REIMBURSMENT OVERVIEW roManualApprovedClaimSearch THROUGH MANUAL TEST PASSED <====
+10-19-2022 16:49:54 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [logoutLevel2Test] - INFO  - 942 - <==== Logout Test Started ====>
+10-19-2022 16:50:05 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [logoutLevel2Test] - INFO  - 946 - Profile Icon Clicked for logout
+10-19-2022 16:50:05 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [logoutLevel2Test] - INFO  - 949 - Log Out Clicked
+10-19-2022 16:50:08 - [hbAxa] - [TC_ReimOverviewTestManual_001.java] - [logoutLevel2Test] - INFO  - 955 - ====> LogOut Test Pass <====
